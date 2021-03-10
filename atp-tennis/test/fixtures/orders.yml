@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  orderId: 1
+  userEmail: one
+  productsList: MyString
+  shippingAddress: MyString
+  orderDate: 2019-12-05 02:21:50
+
+two:
+  orderId: 1
+  userEmail: two
+  productsList: MyString
+  shippingAddress: MyString
+  orderDate: 2019-12-05 02:21:50

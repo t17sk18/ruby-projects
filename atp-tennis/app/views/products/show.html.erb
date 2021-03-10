@@ -1,0 +1,26 @@
+<p id="notice"><%= notice %></p>
+<div class="showproduct">
+<p>
+    <%= image_tag("#{@product.productImage}.jpg", class: 'productdisplay') %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @product.productName %><br>
+
+  <strong>Description:</strong>
+  <%= @product.productDescription %><br>
+
+  <strong>Price:</strong>
+  <%= @product.productPrice %><br>
+
+  <strong>Color:</strong>
+  <%= @product.productColor %><br>
+
+  <strong>Size Available:</strong>
+  <%= @product.productSize %><br>
+
+  <strong>Availabile:</strong>
+  <%= @product.productAvailability %>
+</p>
+</div>

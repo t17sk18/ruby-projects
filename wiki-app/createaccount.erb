@@ -1,0 +1,28 @@
+<br><br>
+<br><h2>Create account</h2><br>
+<form action="/createaccount" method="post">
+    Username:<input type="text" name="username"><br>
+    Password:<input type="password" name="password"><br>
+    <input type="submit" value="Create!">
+</form>
+
+get '/createaccount' do
+    erb:createaccount
+end
+
+post '/createaccount' do n = User.new
+        n.username = params[:username]
+        n.password = params[:password]
+        if n.username == "Admin" and n.password == "Password"
+    n.edit = true 
+    end
+  n.save
+  redirect "/"
+end
+
+
+
+get '/logout' do
+    $credentials = ['',''] 
+    redirect '/'
+end

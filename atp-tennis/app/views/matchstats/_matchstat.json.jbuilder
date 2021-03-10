@@ -1,0 +1,2 @@
+json.extract! matchstat, :id, :statId, :matchId, :playerId, :points, :rank, :winner, :sets, :set1, :set2, :set3, :set4, :set5, :avg_odds, :max_odds, :total_pts, :serve_pt, :return_pt, :aces, :bp_saved, :bp_faced, :first_serve_rtn_won, :second_serve_rtn_won, :first_serve_in, :dbl_faults, :first_server_per, :player_id, :match_id, :created_at, :updated_at
+json.url matchstat_url(matchstat, format: :json)

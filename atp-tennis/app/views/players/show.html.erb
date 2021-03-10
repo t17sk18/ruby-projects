@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>ATP ID:</strong>
+  <%= @player.playerId %>
+</p>
+
+<p>
+  <strong>NAME:</strong>
+  <%= @player.name %>
+</p>
+
+<p>
+  <strong>HAND:</strong>
+  <%= @player.hand %>
+</p>
+
+<p>
+  <strong>COUNTRY:</strong>
+  <%= @player.isocode.country %>
+</p>
+
+<p>
+  <strong>BIRTHDAY:</strong>
+  <%= @player.birthday %>
+</p>
+
+
+<%= link_to 'Back', players_path %>

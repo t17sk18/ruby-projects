@@ -1,0 +1,73 @@
+<p id="notice"><%= notice %></p>
+
+<h3>Human Freedom Index of <%=@freedom.country %> in the year 2015</h3>
+<p>
+  <strong>Iso code:</strong>
+  <%= @freedom.ISO_code %>
+</p>
+
+<p>
+  <strong>Region:</strong>
+  <%= @freedom.region %>
+</p>
+
+<p>
+  <strong>Personal Freedom Rank:</strong>
+  <%= @freedom.pf_rank %>
+</p>
+
+<p>
+  <strong>Economical Freedom Rank:</strong>
+  <%= @freedom.ef_rank %>
+</p>
+
+<p>
+  <strong>Human Freemom Index Rank:</strong>
+  <%= @freedom.hf_rank %>
+</p>
+
+<p>
+  <strong>Freedom Quartile:</strong>
+  <%= @freedom.hf_quartile %>
+</p>
+
+
+
+<h2>Level of Freedom</h2>
+
+<div id="container" style="width:100%;height:400px;"></div>
+<script type="text/javascript">
+$(function () {
+var myChart = Highcharts.chart('container',{
+chart: {
+
+},
+title: {
+text: 'Statistics responsible for Human Freedom index of <%= @freedom.country%>'
+},
+xAxis: {
+categories: ['Rule of Law','Security and Safety','Movement','Religion','Association, Assembly, and Civil Society','Expression and Information','Identity and Relationships',
+'Size of Government','Legal System and Property Rights','Access to Sound Money', 'Freedom to Trade Internationally','Regulation of Credit, Labor, and Business','Personal Freedom Score','Economical Freedom Score','Human Freedom Score']
+},
+yAxis: {
+title: {
+text: 'Scale 0 - 10 (10 - Maximum Freedom)',
+},
+tickInterval:1
+},
+series: [{
+name: 'Statistics',
+type: 'bar',
+data: [<%= raw @freedom.pf_rol%>, <%= raw @freedom.pf_ss%>, <%= raw @freedom.pf_movement%>, <%= raw @freedom.pf_religion%>, <%= raw @freedom.pf_association%>, 
+
+      <%= raw @freedom.pf_expression%>, <%= raw @freedom.pf_identity%>, <%= raw @freedom.ef_government%>, <%= raw @freedom.ef_legal%>, <%= raw @freedom.ef_money%>,<%= raw @freedom.ef_trade%>, 
+
+      <%= raw @freedom.ef_regulation%>,<%= raw @freedom.pf_score%>,<%= raw @freedom.ef_score%>,<%= raw @freedom.hf_score%>]
+
+}]
+});
+});
+
+</script>
+
+<%= link_to 'Back', freedoms_path %>

@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+
+
+      <div>
+        <h2><b>Players</b></h2>
+        <ul>
+        </ul>
+      </div>
+<br>
+
+<div class="wrapper">
+
+ <% @players.each do |player| %>
+  <div class="grid-item">
+  
+  <%= link_to player.name, player %>
+  </div>
+   <% end %>
+</div>
+      
+<br>
+
+

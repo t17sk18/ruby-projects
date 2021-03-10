@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Atp Tennis</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="/app/assets/stylesheets/header.css.scss" rel="stylesheet">
+</head>
+
+       
+        <% if user_signed_in? %>
+        <% @loggedUser = current_user.email %>
+        <% @user = current_user.username %>
+        <% else %>
+        <% @loggedUser = "guest@tennis.com" %>
+        <% @user = "Guest" %>
+        <% end %>
+        <% @cartCount = Cart.where(email: @loggedUser, purchaseStatus: FALSE) %>
+        <% @count = @cartCount.count%>
+
+
+<body>
+
+<div class="topnav" id="myTopnav">
+  <a href="/products" class="active">Home </a>
+  <a href="/livetennisnews/news">Live News</a>
+  <a href="/players">Players</a>
+  <a href="/matchstats">Grand Slams</a>
+  
+  <div class="rightnav" style="float: right">
+    <a href="/orders/viewcart">Cart   <span class="w3-badge w3-green"><%= @count %></span></a>
+    <a class="dis-block icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11  nav-link dropdown-toggle" id="navbarDropdownMenuLink-4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="fa fa-user">  &nbsp; &nbsp; &nbsp;<%= @user %> </i></a>
+      
+       <% if user_signed_in? %>
+        <% if current_user.admin == TRUE %>
+      
+          <a <%= link_to 'Admin Controls', '/admin' %></a> 
+          <a <%= link_to 'Admin Dashboard', information_index_path %></a>
+          <a <%= link_to 'Edit Account', edit_user_registration_path  %></a>
+          <a <%= link_to 'Logout', destroy_user_session_path, method: :get %></a>
+      
+        <% else %>
+          <a <%= link_to 'Edit Account', edit_user_registration_path  %></a>
+          <a <%= link_to 'Logout', destroy_user_session_path, method: :get %></a>
+        <% end %>
+      
+       <% else %>
+          <a <%= link_to 'Login', new_user_session_path %></a>
+          <a <%= link_to 'Sign Up', new_user_registration_path  %></a>
+      <% end %>
+  </div>
+
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+    
+  <div class="hero-image">
+    <div class="hero-text">
+    <h2 style="font-size:50px">ACES</h2>
+     <p>Serve it, Smash it, Win it, Love it</p>
+    </div>
+   </div>
+
+<!--Notice/Alert wrapper from https://codepen.io/CSWApps/pen/XJoLmN-->
+<div class="alert alert-success" role="alert">
+  <p class="alert" style="float: "><%= alert %></p>
+</div>
+
+<div>
+   <%= yield %>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+
+<!--End of Notice/Alert wrapper-->
+</script>
+
+</body>
+
+ 
+

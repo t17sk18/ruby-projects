@@ -1,0 +1,109 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 50;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+<style>
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* CSS RESET END */
+
+h1 {
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+}
+
+body {
+    
+    font-family: 'Jockey One', sans-serif;
+    background-image: url("DeadPool.jpg");
+    background-color: whitesmoke;
+    height: 200px;
+}
+
+div.main_container {
+    width: 1200px;
+    background: grey;
+    margin: 0 auto;
+    opacity: 0.4;
+}
+
+div.page_title {
+    text-align: center;
+    font-family: 'Jockey One', sans-serif;
+}
+
+div.navbar {
+    width: 100%;
+    position: relative;
+}
+
+header {
+    margin-bottom: 50px;
+    font-family: 'Jockey One', sans-serif;
+    text-align: center;
+}
+
+header .navbar a {
+    display: inline;
+    padding: 15px;
+    background: darkred;
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 50px;
+    font-family: 'Jockey One', sans-serif;
+    border-radius: 25px;
+}
+
+div.transbox p {
+  margin: 1%;
+  font-weight: bold;
+    font-family: 'Jockey One', sans-serif;
+  color: #000000;
+    opacity: 10;
+}
+</style>
+
+/* div.view_content {min-height:800px;} */

@@ -1,0 +1,186 @@
+
+
+<p id="notice"><%= notice %></p>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+<strong><%= link_to 'Back', matchstats_path %></strong>
+
+
+<figure class="highcharts-figure">
+    <div id="container"></div>
+    <p class="highcharts-description">
+       
+        </p>
+</figure>
+
+<script>
+
+// Data gathered from https://www.kaggle.com/tbrownlow3/atp-tennis
+
+// 
+var categories = [
+    'First Serve Per', 'Double Faults', 'First Serve In', 'Second Serve Return Won',
+    'First Serve Return Won', 'Break Points Faced', 'Break Points Saved', 'Total Aces', 'Return Points',
+    'Serve Points', 'Total Points','Maximum Odds', 'Average Odds', 'Set 5', 'Set 4',
+    'Set 3', 'Set 2', 'Set 1', 'No Of Sets Played'
+];
+
+Highcharts.chart('container', {
+    chart: {
+        type: 'bar'
+    },
+    title: {
+        text: ''
+    },
+    subtitle: {
+        text: 'Source: <a href="https://www.kaggle.com/tbrownlow3/atp-tennis">Statistics Comparision Betwwen Players of the match</a>'
+    },
+    accessibility: {
+        point: {
+            descriptionFormatter: function (point) {
+                var index = point.index,
+                    category = point.category,
+                    val = (point.y),
+                    series = point.series.name;
+
+                return index  + category + ', ' + val + series + '.';
+            }
+        }
+    },
+    xAxis: [{
+        categories: categories,
+        reversed: false,
+        labels: {
+            step: 1
+        },
+        accessibility: {
+            description: 'Winner'
+        }
+    }, { // mirror axis on right side
+        opposite: true,
+        reversed: false,
+        categories: categories,
+        linkedTo: 0,
+        labels: {
+            step: 1
+        },
+        accessibility: {
+            description: 'Loser'
+        }
+    }],
+    yAxis: {
+        title: {
+            text: null
+        },
+        labels: {
+            formatter: function () {
+                return (this.value);
+            }
+        },
+        accessibility: {
+            description: 'Stats',
+            rangeDescription: 'Range: 0 to 10'
+        }
+    },
+
+    plotOptions: {
+        series: {
+            stacking: 'normal'
+        }
+    },
+
+    tooltip: {
+        formatter: function () {
+            return '<b>' + this.series.name + ',  ' + this.point.category + '</b><br/>' +
+                'Stats: ' + Highcharts.numberFormat(this.point.y) ;
+        }
+    },
+
+    series: [{
+    name: '<%= raw @playerid[0]%>',
+        data: [
+            -<%= raw @fsp[0] %>, -<%= raw @df[0] %>, -<%= raw @fsin[0] %>, -<%= raw @ssrw[0] %>,
+            -<%= raw @fsrw[0] %>, -<%= raw @bpfaced[0] %>, -<%= raw @bpsaved[0] %>, -<%= raw @aces[0] %>,
+            -<%= raw @rtnpt[0] %>, -<%= raw @servept[0] %>, -<%= raw @totalpts[0] %>, -<%= raw @maxodds[0] %>, 
+            -<%= raw @avgodds[0] %>,-<%= raw @set5[0] %>, -<%= raw @set4[0] %>, -<%= raw @set3[0] %>, 
+            -<%= raw @set2[0] %>, -<%= raw @set1[0] %>, -<%= raw @sets[0] %>
+        ]
+    }, {
+        name: '<%= raw @playerid[1]%>',
+        data: [
+            <%= raw @fsp[1] %>, <%= raw @df[1] %>, <%= raw @fsin[1] %>, <%= raw @ssrw[1] %>, 
+            <%= raw @fsrw[1] %>, <%= raw @bpfaced[1] %>, <%= raw @bpsaved[1] %>, <%= raw @aces[1] %>, 
+            <%= raw @rtnpt[1] %>, <%= raw @servept[1] %>, <%= raw @totalpts[1] %>, <%= raw @maxodds[1] %>, 
+            <%= raw @avgodds[1] %>, <%= raw @set5[1] %>, <%= raw @set4[1] %>, <%= raw @set3[1] %>, 
+            <%= raw @set2[1] %>, <%= raw @set1[1] %>, <%= raw @sets[1] %>
+        ]
+    }]
+});
+
+
+</script>
+<script type="text/javascript">
+//https://stackoverflow.com/questions/6160415/reload-an-html-page-just-once-using-javascript
+   if(window.location.href.substr(-2) !== "?r") {
+      window.location = window.location.href + "?r";
+    }
+</script>
+<% @selectedmatch.each do |match|%>
+<p>
+  <strong>Tournament:</strong>
+  <%= match.tournament%>
+</p>
+<p>
+  <strong>Round:</strong>
+  <%= match.round %>
+</p>
+
+<p>
+  <strong>Winner:</strong>
+  <%= raw @playerid[0] %>
+</p>
+
+<p>
+  <strong>Loser:</strong>
+  <%= raw @playerid[1] %>
+</p>
+
+<p>
+  <strong>Date:</strong>
+  <%= match.date %>
+</p>
+
+<p>
+  <strong>Avgage minutes per game:</strong>
+  <%= match.avg_min_game %>
+</p>
+
+<p>
+  <strong>Avgage seconds per point:</strong>
+  <%= match.avg_seconds_point %>
+</p>
+
+<p>
+  <strong>Avgage minutes per set:</strong>
+  <%= match.avg_minutes_set %>
+</p>
+
+
+<p>
+  <strong>Year:</strong>
+  <%= match.year %>
+</p>
+
+<p>
+  <strong>Match minutes:</strong>
+  <%= match.match_minutes %>
+</p>
+
+<% end %>
+
+

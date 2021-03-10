@@ -1,0 +1,66 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container" >
+<h4>Grand Slam Matches Between 2017 - 2019</h4> 
+<h6>Click to view the stats in Charts</h6> 
+ <!--  <div class="row" > -->
+    <div class="col-xs-12" >
+      <div class="table-responsive" style="max- width:50%; max-height:300px;">
+        <!--<%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %> -->
+    
+        <table summary="This table shows how to create responsive tables using Bootstrap's default functionality" class="table table-bordered table-hover">
+         <!-- <caption class="text-center">An example of a responsive table based on <a href="https://getbootstrap.com/css/#tables-responsive" target="_blank">Bootstrap</a>:</caption> --> 
+           <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+          
+           <table id="myTable" >
+          <thead>
+            <tr>
+                <th>Matchid</th>
+                <th>Player Name</th>
+                <th>Winner</th>
+                <th colspan="3"></th>
+            </tr>
+          </thead>
+           <% @matchstats.each do |matchstat| %>
+      <tr>
+        <td><%= link_to matchstat.matchId, matchstat %></td>
+        <td><%= matchstat.player.name %></td>
+        <td><%= matchstat.winner %></td>
+       
+      </tr>
+    <% end %>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td colspan="5" class="text-center"><a href="https://www.kaggle.com/tbrownlow3/atp-tennis"> </a> </tr>
+          </tfoot>
+        </table>
+      </div><!--end of .table-responsive-->
+    </div>
+ <!-- </div> -->
+</div>
+
+
+
+<script type="text/javascript">
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>

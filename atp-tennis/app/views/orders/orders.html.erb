@@ -1,0 +1,17 @@
+
+<div class="col-25" style="width:800px; margin:auto;">
+<h2><u>Order Confirmed</u></h2>
+<h3>Your order will bedelived to your Shipping address</h3>
+
+<b>Address</b>
+<p><%= @fname%> <%= @lname%><p>
+<p><%= @address%><p>
+<p><%= @contact%><p>
+<p><%= @email%><p>
+<h6>** Confirmation of the order sent to your email </h6>
+<br>
+<b>Payment method</b>
+<p>Card: ************<%= @num4%><p>
+
+<h2><%= link_to 'Continue Shopping', products_path %></h2> 
+</div>

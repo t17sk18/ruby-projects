@@ -1,0 +1,62 @@
+<%= form_with(model: match, local: true) do |form| %>
+  <% if match.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(match.errors.count, "error") %> prohibited this match from being saved:</h2>
+
+      <ul>
+        <% match.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :matchId %>
+    <%= form.text_field :matchId %>
+  </div>
+
+  <div class="field">
+    <%= form.label :round %>
+    <%= form.text_field :round %>
+  </div>
+
+  <div class="field">
+    <%= form.label :date %>
+    <%= form.text_field :date %>
+  </div>
+
+  <div class="field">
+    <%= form.label :avg_min_game %>
+    <%= form.text_field :avg_min_game %>
+  </div>
+
+  <div class="field">
+    <%= form.label :avg_seconds_point %>
+    <%= form.text_field :avg_seconds_point %>
+  </div>
+
+  <div class="field">
+    <%= form.label :avg_minutes_set %>
+    <%= form.text_field :avg_minutes_set %>
+  </div>
+
+  <div class="field">
+    <%= form.label :tournament %>
+    <%= form.text_field :tournament %>
+  </div>
+
+  <div class="field">
+    <%= form.label :year %>
+    <%= form.number_field :year %>
+  </div>
+
+  <div class="field">
+    <%= form.label :match_minutes %>
+    <%= form.number_field :match_minutes %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

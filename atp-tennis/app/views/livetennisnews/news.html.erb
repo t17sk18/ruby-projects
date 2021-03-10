@@ -1,0 +1,120 @@
+<html>
+
+  <header class="header_data">
+    <div class="container d-flex h-100 align-items-center">
+      <div class="mx-auto text-center">
+        <h4 class="mx-auto my-0 text-uppercase">LIVE DATA</h4>
+      </div>
+    </div>
+  </header>
+<body>
+
+<div class="row1">
+
+    
+    
+    <!--    -------------------------------------------------------------Section 1 -->
+    <section class="my-5">
+
+    <div class="row">
+        <div class="mx-auto">
+            <!-- Page Content -->
+            <div class="container">
+                <!-- inner row -->
+                <div class="row"> 
+                    <!-- Blog Entries Column -->
+                    <div class="">
+                      <div class="column1" style="background-color:#aaa;">
+                    <h1 class="my-4">Upcoming Tournaments</h1>
+                        
+                    <!-- Blog Post -->
+                    <% @response["sport_events"].each do |res|  %>
+                            <div class="card mb-5">
+                                <div class="card-body">
+                                <h4 class="card-title"><b>Tournament: </b><%= res["season"]["name"]%></h4>
+                                <p class="card-text">
+                                        <b>Scheduled At: </b><%= res["scheduled"]%><br>
+                                        
+                                        <b>Type: </b><%= res["tournament"]["type"]%><br>
+                                        <b>Gender: </b><%= res["tournament"]["gender"]%></p>
+                                </div>
+                            <div class="card-footer text-muted">
+                        </div>
+
+                        </div>
+                    <% end %>
+                    
+                      </div>
+
+                    <div class="column2" style="background-color:#bbb;">
+                    <h1 class="my-4">Tennis News</h1>
+                        
+                    <!-- Blog Post -->
+                    <% for i in 0..9 do %>
+                            <div class="card mb-5">
+                                <div class="card-body">
+                                <h4 class="card-title"><%=@result["response"]["results"][i]["webTitle"]%></h4>
+                                <p class="card-text"><%=@result["response"]["results"][i]["fields"]["bodyText"].slice(0..200)%>..</p>
+                                <h5><a href=<%=@result["response"]["results"][i]["webUrl"]%> target="_blank">>Read More &rarr;</a></h5>
+                                </div>
+                                <div class="card-footer text-muted">
+                                    Posted on <%=@result["response"]["results"][i]["webPublicationDate"]%> by <a href="https://www.theguardian.com">The Guardian</a>
+                                </div>
+                            </div>
+                    <% end %>
+                    </div>
+
+
+
+                    <!-- End of Blog Post -->
+                
+                    </div> 
+                    <!-- End of Blog Entries Column -->
+                </div>
+                <!-- End of inner row -->
+            </div>
+            <!-- End of page content -->
+        </div>
+        <!--end of col-md-8 mx-auto -->
+    </div>
+    <!--end of outside row -->
+    </section>
+
+
+  
+</div>
+
+
+<style>
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two unequal columns that floats next to each other */
+  .column1 {
+    float: left;
+    padding: 10px;
+    width: 50%;
+
+  }
+  
+   .column2 {
+    float: left;
+    padding: 10px;
+     width: 50%;
+  }
+ 
+  
+</style>
+
+
+</body>
+
+
+
+
+
+
+
+

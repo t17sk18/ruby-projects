@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Freedoms</h1>
+<h2>Info, year 2015 etc</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Iso code</th>
+      <th>Region</th>
+      <th>Human Freedom Index rank</th>
+      <th colspan="1"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @freedoms.each do |freedom| %>
+      <tr>
+        <td><%= freedom.country %></td>
+        <td><%= freedom.ISO_code %></td>
+        <td><%= freedom.region %></td>
+        <td><%= freedom.hf_rank %></td>
+        <td><%= link_to 'Show', freedom %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+

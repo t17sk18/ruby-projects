@@ -1,0 +1,1525 @@
+match_id,round,date,avg_minutes_game,avg_seconds_point,avg_minutes_set,tournament,year,match_minutes
+m_2019_A_0,1st Round,1/14/2019,4.81,46.8,43.3,Australian Open,2019,173
+m_2019_A_1,1st Round,1/14/2019,3.95,35.7,40.5,Australian Open,2019,162
+m_2019_A_2,1st Round,1/14/2019,4.86,42.3,43.8,Australian Open,2019,175
+m_2019_A_3,1st Round,1/14/2019,4.43,43.3,41,Australian Open,2019,164
+m_2019_A_4,1st Round,1/14/2019,4.37,39.7,43.7,Australian Open,2019,131
+m_2019_A_5,1st Round,1/14/2019,4.17,39.7,40.3,Australian Open,2019,121
+m_2019_A_6,1st Round,1/14/2019,,,,Australian Open,2019,
+m_2019_A_7,1st Round,1/14/2019,4.12,40.7,44.3,Australian Open,2019,177
+m_2019_A_8,1st Round,1/14/2019,4.25,39.4,38.3,Australian Open,2019,153
+m_2019_A_9,1st Round,1/14/2019,3.73,37.3,37.3,Australian Open,2019,112
+m_2019_A_10,1st Round,1/14/2019,4.35,42.2,45,Australian Open,2019,135
+m_2019_A_11,1st Round,1/14/2019,4.72,42.3,46,Australian Open,2019,184
+m_2019_A_12,1st Round,1/14/2019,3.71,37,44.5,Australian Open,2019,178
+m_2019_A_13,1st Round,1/14/2019,3.34,36.3,26.8,Australian Open,2019,107
+m_2019_A_14,1st Round,1/14/2019,5,46.7,51.7,Australian Open,2019,155
+m_2019_A_15,1st Round,1/14/2019,4.16,40.5,36.6,Australian Open,2019,183
+m_2019_A_16,1st Round,1/14/2019,4.19,39.7,37.8,Australian Open,2019,151
+m_2019_A_17,1st Round,1/14/2019,3.69,38.5,39.3,Australian Open,2019,118
+m_2019_A_18,1st Round,1/14/2019,3.95,40.2,30.8,Australian Open,2019,154
+m_2019_A_19,1st Round,1/14/2019,3.95,37.2,37.5,Australian Open,2019,150
+m_2019_A_20,1st Round,1/14/2019,3.98,36.2,40.8,Australian Open,2019,163
+m_2019_A_21,1st Round,1/14/2019,3.78,39.7,34,Australian Open,2019,102
+m_2019_A_22,1st Round,1/14/2019,4,41.7,37.3,Australian Open,2019,112
+m_2019_A_23,1st Round,1/14/2019,,,,Australian Open,2019,
+m_2019_A_24,1st Round,1/14/2019,3.62,39.7,35.3,Australian Open,2019,141
+m_2019_A_25,1st Round,1/14/2019,3.86,35.2,28.3,Australian Open,2019,85
+m_2019_A_26,1st Round,1/14/2019,4.57,38.3,48,Australian Open,2019,192
+m_2019_A_27,1st Round,1/14/2019,4.13,40.3,39.3,Australian Open,2019,157
+m_2019_A_28,1st Round,1/14/2019,4.28,35.3,41.3,Australian Open,2019,124
+m_2019_A_29,1st Round,1/14/2019,4.79,49.3,49.8,Australian Open,2019,249
+m_2019_A_30,1st Round,1/14/2019,4.1,37.5,41,Australian Open,2019,123
+m_2019_A_31,1st Round,1/14/2019,4.03,38.8,39,Australian Open,2019,117
+m_2019_A_32,1st Round,1/15/2019,5.14,43.4,72,Australian Open,2019,144
+m_2019_A_33,1st Round,1/15/2019,5.91,46.4,65,Australian Open,2019,195
+m_2019_A_34,1st Round,1/15/2019,4.47,43.3,48,Australian Open,2019,192
+m_2019_A_35,1st Round,1/15/2019,4.42,43.4,42,Australian Open,2019,168
+m_2019_A_36,1st Round,1/15/2019,,,,Australian Open,2019,
+m_2019_A_37,1st Round,1/15/2019,,,,Australian Open,2019,
+m_2019_A_38,1st Round,1/15/2019,3.67,39.1,33,Australian Open,2019,99
+m_2019_A_39,1st Round,1/15/2019,4.86,44,35.7,Australian Open,2019,107
+m_2019_A_40,1st Round,1/15/2019,3.88,36.8,46.5,Australian Open,2019,186
+m_2019_A_41,1st Round,1/15/2019,4.48,44.5,40.3,Australian Open,2019,121
+m_2019_A_42,1st Round,1/15/2019,4.25,42.1,43.4,Australian Open,2019,217
+m_2019_A_43,1st Round,1/15/2019,3.8,37.5,33.3,Australian Open,2019,133
+m_2019_A_44,1st Round,1/15/2019,4.63,41.7,48.2,Australian Open,2019,241
+m_2019_A_45,1st Round,1/15/2019,4.45,41.1,45.4,Australian Open,2019,227
+m_2019_A_46,1st Round,1/15/2019,4.32,39.2,44.3,Australian Open,2019,177
+m_2019_A_47,1st Round,1/15/2019,4.23,41,42.3,Australian Open,2019,127
+m_2019_A_48,1st Round,1/15/2019,4.26,42.9,38.3,Australian Open,2019,115
+m_2019_A_49,1st Round,1/15/2019,4,36.4,29.3,Australian Open,2019,88
+m_2019_A_50,1st Round,1/15/2019,3.97,39,38.3,Australian Open,2019,115
+m_2019_A_51,1st Round,1/15/2019,5.11,43.1,92,Australian Open,2019,92
+m_2019_A_52,1st Round,1/15/2019,3.62,36,35,Australian Open,2019,105
+m_2019_A_53,1st Round,1/15/2019,3.62,38.4,35,Australian Open,2019,105
+m_2019_A_54,1st Round,1/15/2019,4.62,44.2,40,Australian Open,2019,120
+m_2019_A_55,1st Round,1/15/2019,,,,Australian Open,2019,
+m_2019_A_56,1st Round,1/15/2019,4.44,39.1,48.8,Australian Open,2019,244
+m_2019_A_57,1st Round,1/15/2019,3.64,37,32.8,Australian Open,2019,164
+m_2019_A_58,1st Round,1/15/2019,3.5,32.8,39.7,Australian Open,2019,119
+m_2019_A_59,1st Round,1/15/2019,4.62,42.4,60,Australian Open,2019,60
+m_2019_A_60,1st Round,1/15/2019,3.96,40.7,33,Australian Open,2019,99
+m_2019_A_61,1st Round,1/15/2019,4.92,40.5,41,Australian Open,2019,123
+m_2019_A_62,1st Round,1/15/2019,3.63,40.7,38.7,Australian Open,2019,116
+m_2019_A_63,1st Round,1/15/2019,4.72,40.1,44.4,Australian Open,2019,222
+m_2019_A_64,2nd Round,1/16/2019,4.34,39.1,46,Australian Open,2019,230
+m_2019_A_65,2nd Round,1/16/2019,3.78,39,34.8,Australian Open,2019,174
+m_2019_A_66,2nd Round,1/16/2019,4.32,41.7,40,Australian Open,2019,160
+m_2019_A_67,2nd Round,1/16/2019,3.93,38.6,38,Australian Open,2019,114
+m_2019_A_68,2nd Round,1/16/2019,3.16,35.6,26.3,Australian Open,2019,79
+m_2019_A_69,2nd Round,1/16/2019,4.93,45.5,54.3,Australian Open,2019,217
+m_2019_A_70,2nd Round,1/16/2019,4.26,43.3,44.8,Australian Open,2019,179
+m_2019_A_71,2nd Round,1/16/2019,5.29,48.3,49.3,Australian Open,2019,148
+m_2019_A_72,2nd Round,1/16/2019,4.7,43.5,51.7,Australian Open,2019,155
+m_2019_A_73,2nd Round,1/16/2019,4.53,35.5,51,Australian Open,2019,204
+m_2019_A_74,2nd Round,1/16/2019,4.52,37.9,40.7,Australian Open,2019,122
+m_2019_A_75,2nd Round,1/16/2019,4.16,38.1,42.4,Australian Open,2019,212
+m_2019_A_76,2nd Round,1/16/2019,4.85,43.2,45.6,Australian Open,2019,228
+m_2019_A_77,2nd Round,1/16/2019,4.02,35.6,42.3,Australian Open,2019,169
+m_2019_A_78,2nd Round,1/16/2019,4.73,42.3,46.4,Australian Open,2019,232
+m_2019_A_79,2nd Round,1/16/2019,4.64,44.6,38.7,Australian Open,2019,116
+m_2019_A_80,2nd Round,1/17/2019,4,41.7,45.6,Australian Open,2019,228
+m_2019_A_81,2nd Round,1/17/2019,5.02,44.6,60.3,Australian Open,2019,241
+m_2019_A_82,2nd Round,1/17/2019,4.61,41.8,51.6,Australian Open,2019,258
+m_2019_A_83,2nd Round,1/17/2019,4.69,43.4,45.3,Australian Open,2019,136
+m_2019_A_84,2nd Round,1/17/2019,4.69,46.1,45.3,Australian Open,2019,136
+m_2019_A_85,2nd Round,1/17/2019,4.33,41.7,47.7,Australian Open,2019,143
+m_2019_A_86,2nd Round,1/17/2019,,,,Australian Open,2019,
+m_2019_A_87,2nd Round,1/17/2019,5.06,38.5,57.3,Australian Open,2019,172
+m_2019_A_88,2nd Round,1/17/2019,3.68,41.4,40.5,Australian Open,2019,162
+m_2019_A_89,2nd Round,1/17/2019,4.88,42.2,48.8,Australian Open,2019,244
+m_2019_A_90,2nd Round,1/17/2019,4.39,41.1,50.5,Australian Open,2019,202
+m_2019_A_91,2nd Round,1/17/2019,4.27,43.4,42.7,Australian Open,2019,128
+m_2019_A_92,2nd Round,1/17/2019,4.33,36.9,52,Australian Open,2019,104
+m_2019_A_93,2nd Round,1/17/2019,3.37,38.5,30.3,Australian Open,2019,91
+m_2019_A_94,2nd Round,1/17/2019,4.26,39.9,45.2,Australian Open,2019,226
+m_2019_A_95,2nd Round,1/17/2019,,,,Australian Open,2019,
+m_2019_A_96,3rd Round,1/18/2019,4.35,40,43.5,Australian Open,2019,174
+m_2019_A_97,3rd Round,1/18/2019,4.19,40.1,45,Australian Open,2019,180
+m_2019_A_98,3rd Round,1/18/2019,3.14,35.7,29.3,Australian Open,2019,88
+m_2019_A_99,3rd Round,1/18/2019,3.94,41.2,39.4,Australian Open,2019,197
+m_2019_A_100,3rd Round,1/18/2019,3.97,41.9,42.3,Australian Open,2019,127
+m_2019_A_101,3rd Round,1/18/2019,4,41.3,42.7,Australian Open,2019,128
+m_2019_A_102,3rd Round,1/18/2019,5.68,47.1,47.3,Australian Open,2019,142
+m_2019_A_103,3rd Round,1/18/2019,5.49,48.7,51.6,Australian Open,2019,258
+m_2019_A_104,3rd Round,1/19/2019,4.17,41,40.3,Australian Open,2019,121
+m_2019_A_105,3rd Round,1/19/2019,4.67,45,42,Australian Open,2019,126
+m_2019_A_106,3rd Round,1/19/2019,4.17,40.4,37.5,Australian Open,2019,150
+m_2019_A_107,3rd Round,1/19/2019,,,,Australian Open,2019,
+m_2019_A_108,3rd Round,1/19/2019,4.06,43,35.5,Australian Open,2019,142
+m_2019_A_109,3rd Round,1/19/2019,4.53,42.7,40.8,Australian Open,2019,163
+m_2019_A_110,3rd Round,1/19/2019,4.31,38.4,37.3,Australian Open,2019,112
+m_2019_A_111,3rd Round,1/19/2019,4.29,38.2,44.6,Australian Open,2019,223
+m_2019_A_112,4th Round,1/20/2019,4.56,39,54.8,Australian Open,2019,219
+m_2019_A_113,4th Round,1/20/2019,5,47.2,41.7,Australian Open,2019,125
+m_2019_A_114,4th Round,1/20/2019,4.86,44.5,47.6,Australian Open,2019,238
+m_2019_A_115,4th Round,1/20/2019,4.69,39.2,56.3,Australian Open,2019,225
+m_2019_A_116,4th Round,1/21/2019,4.58,42.5,39.7,Australian Open,2019,119
+m_2019_A_117,4th Round,1/21/2019,4.24,40.3,48.8,Australian Open,2019,195
+m_2019_A_118,4th Round,1/21/2019,5.45,43,61,Australian Open,2019,305
+m_2019_A_119,4th Round,1/21/2019,5,43.7,48.8,Australian Open,2019,195
+m_2019_A_120,Quarterfinals,1/22/2019,4.43,45.5,48.8,Australian Open,2019,195
+m_2019_A_121,Quarterfinals,1/22/2019,3.96,43.1,35.7,Australian Open,2019,107
+m_2019_A_122,Quarterfinals,1/23/2019,4.23,40.3,45.5,Australian Open,2019,182
+m_2019_A_123,Quarterfinals,1/23/2019,4.33,41.1,52,Australian Open,2019,52
+m_2019_A_124,Semifinals,1/24/2019,4.42,50.5,35.3,Australian Open,2019,106
+m_2019_A_125,Semifinals,1/25/2019,3.77,39.2,27.7,Australian Open,2019,83
+m_2019_A_126,The Final,1/27/2019,4.77,52.4,41.3,Australian Open,2019,124
+m_2018_A_0,1st Round,1/15/2018,4,37.2,41.3,Australian Open,2018,124
+m_2018_A_1,1st Round,1/15/2018,4.38,42.4,43.8,Australian Open,2018,219
+m_2018_A_2,1st Round,1/15/2018,4.88,46.4,47.8,Australian Open,2018,239
+m_2018_A_3,1st Round,1/15/2018,5.15,46,52.8,Australian Open,2018,211
+m_2018_A_4,1st Round,1/15/2018,4.33,40.7,47.7,Australian Open,2018,143
+m_2018_A_5,1st Round,1/15/2018,4.56,41.6,44.5,Australian Open,2018,178
+m_2018_A_6,1st Round,1/15/2018,4.81,44.9,49.7,Australian Open,2018,149
+m_2018_A_7,1st Round,1/15/2018,4.37,41.4,38.3,Australian Open,2018,153
+m_2018_A_8,1st Round,1/15/2018,4.42,40.1,46,Australian Open,2018,230
+m_2018_A_9,1st Round,1/15/2018,3.35,36.8,31,Australian Open,2018,124
+m_2018_A_10,1st Round,1/15/2018,4.18,40.1,31.8,Australian Open,2018,159
+m_2018_A_11,1st Round,1/15/2018,3.45,34.7,33.8,Australian Open,2018,169
+m_2018_A_12,1st Round,1/15/2018,4.14,40.5,38.7,Australian Open,2018,116
+m_2018_A_13,1st Round,1/15/2018,4.08,38.7,32.7,Australian Open,2018,98
+m_2018_A_14,1st Round,1/15/2018,4.05,38.5,47.8,Australian Open,2018,239
+m_2018_A_15,1st Round,1/15/2018,5.18,43.6,49.3,Australian Open,2018,197
+m_2018_A_16,1st Round,1/15/2018,4.79,44.1,45,Australian Open,2018,225
+m_2018_A_17,1st Round,1/15/2018,4.27,37.6,47,Australian Open,2018,141
+m_2018_A_18,1st Round,1/15/2018,4.31,38.9,38.8,Australian Open,2018,155
+m_2018_A_19,1st Round,1/15/2018,3.9,38.2,40.3,Australian Open,2018,121
+m_2018_A_20,1st Round,1/15/2018,3.83,39.4,38.3,Australian Open,2018,153
+m_2018_A_21,1st Round,1/15/2018,3.86,37.7,34.8,Australian Open,2018,139
+m_2018_A_22,1st Round,1/15/2018,4.16,40.7,43,Australian Open,2018,129
+m_2018_A_23,1st Round,1/15/2018,4.79,44.6,46.3,Australian Open,2018,139
+m_2018_A_24,1st Round,1/15/2018,3.97,36.5,38.3,Australian Open,2018,115
+m_2018_A_25,1st Round,1/15/2018,4.13,36.6,51.2,Australian Open,2018,256
+m_2018_A_26,1st Round,1/15/2018,4.34,37.8,47.8,Australian Open,2018,191
+m_2018_A_27,1st Round,1/15/2018,3.48,35,29,Australian Open,2018,87
+m_2018_A_28,1st Round,1/15/2018,4.48,44.4,31.3,Australian Open,2018,94
+m_2018_A_29,1st Round,1/15/2018,4.75,43,48.4,Australian Open,2018,242
+m_2018_A_30,1st Round,1/15/2018,3.56,34.2,34.2,Australian Open,2018,171
+m_2018_A_31,1st Round,1/15/2018,4.48,37.6,40.3,Australian Open,2018,121
+m_2018_A_32,1st Round,1/16/2018,4.39,39.5,50.5,Australian Open,2018,202
+m_2018_A_33,1st Round,1/16/2018,3.86,37.9,36,Australian Open,2018,108
+m_2018_A_34,1st Round,1/16/2018,5.03,44,49,Australian Open,2018,196
+m_2018_A_35,1st Round,1/16/2018,4.1,41.4,42.3,Australian Open,2018,127
+m_2018_A_36,1st Round,1/16/2018,5.05,42.5,51.8,Australian Open,2018,207
+m_2018_A_37,1st Round,1/16/2018,3.57,40.9,35.7,Australian Open,2018,107
+m_2018_A_38,1st Round,1/16/2018,5.05,43.7,44.4,Australian Open,2018,222
+m_2018_A_39,1st Round,1/16/2018,3.88,37.5,32.3,Australian Open,2018,97
+m_2018_A_40,1st Round,1/16/2018,4.07,38.8,45.8,Australian Open,2018,183
+m_2018_A_41,1st Round,1/16/2018,3.37,32.7,30.3,Australian Open,2018,91
+m_2018_A_42,1st Round,1/16/2018,4.58,39.1,47.3,Australian Open,2018,142
+m_2018_A_43,1st Round,1/16/2018,3.92,39.6,38.3,Australian Open,2018,153
+m_2018_A_44,1st Round,1/16/2018,4.16,35.3,34.7,Australian Open,2018,104
+m_2018_A_45,1st Round,1/16/2018,4.28,40.1,41.8,Australian Open,2018,167
+m_2018_A_46,1st Round,1/16/2018,4.11,44.1,37,Australian Open,2018,111
+m_2018_A_47,1st Round,1/16/2018,3.87,34.3,38.7,Australian Open,2018,116
+m_2018_A_48,1st Round,1/16/2018,4.12,38,42.3,Australian Open,2018,169
+m_2018_A_49,1st Round,1/16/2018,4.44,39.4,37,Australian Open,2018,111
+m_2018_A_50,1st Round,1/16/2018,3.5,36,35,Australian Open,2018,105
+m_2018_A_51,1st Round,1/16/2018,4.54,36.1,44.3,Australian Open,2018,177
+m_2018_A_52,1st Round,1/16/2018,3.81,37,40.7,Australian Open,2018,122
+m_2018_A_53,1st Round,1/16/2018,3.08,32.8,25.7,Australian Open,2018,77
+m_2018_A_54,1st Round,1/16/2018,4.98,44.2,52.3,Australian Open,2018,209
+m_2018_A_55,1st Round,1/16/2018,3.9,39.9,40.3,Australian Open,2018,121
+m_2018_A_56,1st Round,1/16/2018,4.31,42.9,41.7,Australian Open,2018,125
+m_2018_A_57,1st Round,1/16/2018,4.32,38.7,49,Australian Open,2018,147
+m_2018_A_58,1st Round,1/16/2018,4.23,35.5,37,Australian Open,2018,148
+m_2018_A_59,1st Round,1/16/2018,3.69,36,48,Australian Open,2018,48
+m_2018_A_60,1st Round,1/16/2018,4.03,39.7,31.3,Australian Open,2018,125
+m_2018_A_61,1st Round,1/16/2018,3.54,34.7,33,Australian Open,2018,99
+m_2018_A_62,1st Round,1/16/2018,4.53,40.6,45.3,Australian Open,2018,136
+m_2018_A_63,1st Round,1/16/2018,4.79,45.4,44.7,Australian Open,2018,134
+m_2018_A_64,2nd Round,1/17/2018,3.61,35.4,33.7,Australian Open,2018,101
+m_2018_A_65,2nd Round,1/17/2018,4.75,42,48.4,Australian Open,2018,242
+m_2018_A_66,2nd Round,1/17/2018,4.27,38.9,37,Australian Open,2018,111
+m_2018_A_67,2nd Round,1/17/2018,4,38.8,44,Australian Open,2018,44
+m_2018_A_68,2nd Round,1/17/2018,4.43,41.6,43.4,Australian Open,2018,217
+m_2018_A_69,2nd Round,1/17/2018,3.42,37.3,29.7,Australian Open,2018,89
+m_2018_A_70,2nd Round,1/17/2018,4.01,39,54.6,Australian Open,2018,273
+m_2018_A_71,2nd Round,1/17/2018,3.89,42.6,35,Australian Open,2018,105
+m_2018_A_72,2nd Round,1/17/2018,4.18,40.1,39.8,Australian Open,2018,159
+m_2018_A_73,2nd Round,1/17/2018,3.63,35.7,38.7,Australian Open,2018,116
+m_2018_A_74,2nd Round,1/17/2018,5.1,46.7,52.7,Australian Open,2018,158
+m_2018_A_75,2nd Round,1/17/2018,4.37,40.2,39.3,Australian Open,2018,118
+m_2018_A_76,2nd Round,1/17/2018,4.55,40.1,45.5,Australian Open,2018,182
+m_2018_A_77,2nd Round,1/17/2018,3.88,37.4,44,Australian Open,2018,132
+m_2018_A_78,2nd Round,1/17/2018,4.27,41.3,41,Australian Open,2018,205
+m_2018_A_79,2nd Round,1/17/2018,4.13,37.1,42.7,Australian Open,2018,128
+m_2018_A_80,2nd Round,1/18/2018,4.08,35.7,40.8,Australian Open,2018,163
+m_2018_A_81,2nd Round,1/18/2018,4.27,42.2,42.7,Australian Open,2018,128
+m_2018_A_82,2nd Round,1/18/2018,4.85,41.5,45.6,Australian Open,2018,228
+m_2018_A_83,2nd Round,1/18/2018,3.9,38.6,38,Australian Open,2018,152
+m_2018_A_84,2nd Round,1/18/2018,4.44,41.6,37.8,Australian Open,2018,151
+m_2018_A_85,2nd Round,1/18/2018,4.48,42.2,47,Australian Open,2018,188
+m_2018_A_86,2nd Round,1/18/2018,4.12,37.7,35,Australian Open,2018,140
+m_2018_A_87,2nd Round,1/18/2018,5.11,45.9,56.3,Australian Open,2018,225
+m_2018_A_88,2nd Round,1/18/2018,4.71,42.9,41.3,Australian Open,2018,165
+m_2018_A_89,2nd Round,1/18/2018,4.58,38.1,43.5,Australian Open,2018,174
+m_2018_A_90,2nd Round,1/18/2018,4.46,40,38.7,Australian Open,2018,116
+m_2018_A_91,2nd Round,1/18/2018,4.52,38.1,37.7,Australian Open,2018,113
+m_2018_A_92,2nd Round,1/18/2018,4.14,40.2,41.4,Australian Open,2018,207
+m_2018_A_93,2nd Round,1/18/2018,3.4,33.4,29.8,Australian Open,2018,119
+m_2018_A_94,2nd Round,1/18/2018,3.52,35.4,29.3,Australian Open,2018,88
+m_2018_A_95,2nd Round,1/18/2018,3.59,34.7,38.3,Australian Open,2018,115
+m_2018_A_96,3rd Round,1/19/2018,4.37,38.2,42.8,Australian Open,2018,214
+m_2018_A_97,3rd Round,1/19/2018,4.3,42.4,49.5,Australian Open,2018,198
+m_2018_A_98,3rd Round,1/19/2018,4.72,39.7,46,Australian Open,2018,184
+m_2018_A_99,3rd Round,1/19/2018,3.79,38.8,46.2,Australian Open,2018,231
+m_2018_A_100,3rd Round,1/19/2018,4.16,39.3,39.5,Australian Open,2018,158
+m_2018_A_101,3rd Round,1/19/2018,4.28,41.3,49.3,Australian Open,2018,197
+m_2018_A_102,3rd Round,1/19/2018,4.78,42.9,36.7,Australian Open,2018,110
+m_2018_A_103,3rd Round,1/19/2018,4.52,41.8,49.7,Australian Open,2018,149
+m_2018_A_104,3rd Round,1/20/2018,3.91,39.6,44,Australian Open,2018,176
+m_2018_A_105,3rd Round,1/20/2018,4.27,42.9,42.7,Australian Open,2018,128
+m_2018_A_106,3rd Round,1/20/2018,4.19,40.3,36,Australian Open,2018,180
+m_2018_A_107,3rd Round,1/20/2018,4.3,43.6,40.4,Australian Open,2018,202
+m_2018_A_108,3rd Round,1/20/2018,4.46,43.5,38.7,Australian Open,2018,116
+m_2018_A_109,3rd Round,1/20/2018,5.23,45.3,45.3,Australian Open,2018,136
+m_2018_A_110,3rd Round,1/20/2018,5.42,46.2,47,Australian Open,2018,141
+m_2018_A_111,3rd Round,1/20/2018,3.97,38.8,39.7,Australian Open,2018,119
+m_2018_A_112,4th Round,1/21/2018,4.6,43.6,51.8,Australian Open,2018,207
+m_2018_A_113,4th Round,1/21/2018,5.92,47.3,57.8,Australian Open,2018,231
+m_2018_A_114,4th Round,1/21/2018,4.32,41.8,44.3,Australian Open,2018,177
+m_2018_A_115,4th Round,1/21/2018,4.48,39.5,51.5,Australian Open,2018,206
+m_2018_A_116,4th Round,1/22/2018,4.74,44.7,42.7,Australian Open,2018,128
+m_2018_A_117,4th Round,1/22/2018,4.03,38.4,40.3,Australian Open,2018,121
+m_2018_A_118,4th Round,1/22/2018,4.59,40.5,46.8,Australian Open,2018,234
+m_2018_A_119,4th Round,1/22/2018,5.58,45.3,67,Australian Open,2018,201
+m_2018_A_120,Quarterfinals,1/23/2018,4.45,42.3,42.3,Australian Open,2018,169
+m_2018_A_121,Quarterfinals,1/23/2018,5.68,45.1,56.8,Australian Open,2018,227
+m_2018_A_122,Quarterfinals,1/24/2018,4.77,42.1,49.3,Australian Open,2018,148
+m_2018_A_123,Quarterfinals,1/24/2018,4.32,42.3,44.7,Australian Open,2018,134
+m_2018_A_124,Semifinals,1/25/2018,4.93,43.6,46,Australian Open,2018,138
+m_2018_A_125,Semifinals,1/26/2018,4.43,41.3,62,Australian Open,2018,62
+m_2018_A_126,The Final,1/28/2018,4.07,39.2,36.6,Australian Open,2018,183
+m_2017_A_0,1st Round,1/16/2017,4.63,41.1,44.4,Australian Open,2017,222
+m_2017_A_1,1st Round,1/16/2017,5.75,39.4,,Australian Open,2017,23
+m_2017_A_2,1st Round,1/16/2017,3.69,37.4,33.2,Australian Open,2017,166
+m_2017_A_3,1st Round,1/16/2017,4.85,40.8,47.3,Australian Open,2017,189
+m_2017_A_4,1st Round,1/16/2017,4.52,42.6,40.7,Australian Open,2017,122
+m_2017_A_5,1st Round,1/16/2017,4.37,42.8,42.8,Australian Open,2017,214
+m_2017_A_6,1st Round,1/16/2017,4.26,39.8,44,Australian Open,2017,132
+m_2017_A_7,1st Round,1/16/2017,3.84,34.9,41.3,Australian Open,2017,165
+m_2017_A_8,1st Round,1/16/2017,4.57,40,32,Australian Open,2017,32
+m_2017_A_9,1st Round,1/16/2017,3.88,38,32.3,Australian Open,2017,97
+m_2017_A_10,1st Round,1/16/2017,4.25,39.4,42.5,Australian Open,2017,170
+m_2017_A_11,1st Round,1/16/2017,3.76,38.5,35.8,Australian Open,2017,143
+m_2017_A_12,1st Round,1/16/2017,4.09,41.2,36.8,Australian Open,2017,184
+m_2017_A_13,1st Round,1/16/2017,4.29,40.9,40,Australian Open,2017,120
+m_2017_A_14,1st Round,1/16/2017,5.22,47.5,55.7,Australian Open,2017,167
+m_2017_A_15,1st Round,1/16/2017,4.41,36.4,39.7,Australian Open,2017,119
+m_2017_A_16,1st Round,1/16/2017,3.42,32.4,27.3,Australian Open,2017,82
+m_2017_A_17,1st Round,1/16/2017,4.17,41.2,40,Australian Open,2017,200
+m_2017_A_18,1st Round,1/16/2017,4.15,37.2,41.5,Australian Open,2017,166
+m_2017_A_19,1st Round,1/16/2017,4.43,41.3,48.8,Australian Open,2017,195
+m_2017_A_20,1st Round,1/16/2017,4.02,36.2,46.3,Australian Open,2017,185
+m_2017_A_21,1st Round,1/16/2017,3.84,33.8,37.6,Australian Open,2017,188
+m_2017_A_22,1st Round,1/16/2017,3.03,32.5,25.8,Australian Open,2017,103
+m_2017_A_23,1st Round,1/16/2017,4.4,41.1,38.5,Australian Open,2017,154
+m_2017_A_24,1st Round,1/16/2017,4.11,37.9,38.3,Australian Open,2017,115
+m_2017_A_25,1st Round,1/16/2017,3.97,40.1,35.8,Australian Open,2017,143
+m_2017_A_26,1st Round,1/16/2017,4.26,37.9,44,Australian Open,2017,132
+m_2017_A_27,1st Round,1/16/2017,4.14,43.9,40,Australian Open,2017,120
+m_2017_A_28,1st Round,1/16/2017,3.65,38.5,28,Australian Open,2017,84
+m_2017_A_29,1st Round,1/16/2017,3.92,38.6,40.8,Australian Open,2017,204
+m_2017_A_30,1st Round,1/16/2017,3.82,37.9,32.5,Australian Open,2017,130
+m_2017_A_31,1st Round,1/16/2017,3.38,35,31.3,Australian Open,2017,125
+m_2017_A_32,1st Round,1/17/2017,,,,Australian Open,2017,
+m_2017_A_33,1st Round,1/17/2017,4.4,42.4,37,Australian Open,2017,185
+m_2017_A_34,1st Round,1/17/2017,4.69,38.8,50,Australian Open,2017,150
+m_2017_A_35,1st Round,1/17/2017,4.4,41.3,36.7,Australian Open,2017,110
+m_2017_A_36,1st Round,1/17/2017,3.78,36.8,34.8,Australian Open,2017,174
+m_2017_A_37,1st Round,1/17/2017,5.13,45.5,59,Australian Open,2017,236
+m_2017_A_38,1st Round,1/17/2017,4.29,38.6,37.5,Australian Open,2017,150
+m_2017_A_39,1st Round,1/17/2017,3.41,32.1,30.7,Australian Open,2017,92
+m_2017_A_40,1st Round,1/17/2017,3.67,36.2,35.2,Australian Open,2017,176
+m_2017_A_41,1st Round,1/17/2017,4.36,41.9,39.3,Australian Open,2017,157
+m_2017_A_42,1st Round,1/17/2017,4.09,38.3,35.8,Australian Open,2017,143
+m_2017_A_43,1st Round,1/17/2017,4.28,41.8,41.3,Australian Open,2017,124
+m_2017_A_44,1st Round,1/17/2017,3.79,40.5,36.7,Australian Open,2017,110
+m_2017_A_45,1st Round,1/17/2017,5.42,45.9,65,Australian Open,2017,65
+m_2017_A_46,1st Round,1/17/2017,4.46,38.4,43.5,Australian Open,2017,174
+m_2017_A_47,1st Round,1/17/2017,4.06,38.1,44.7,Australian Open,2017,134
+m_2017_A_48,1st Round,1/17/2017,3.92,39.7,36.3,Australian Open,2017,145
+m_2017_A_49,1st Round,1/17/2017,3.61,39.2,27.7,Australian Open,2017,83
+m_2017_A_50,1st Round,1/17/2017,4.04,42.4,37.7,Australian Open,2017,113
+m_2017_A_51,1st Round,1/17/2017,4.43,39.9,44.3,Australian Open,2017,177
+m_2017_A_52,1st Round,1/17/2017,4.37,43.4,40.2,Australian Open,2017,201
+m_2017_A_53,1st Round,1/17/2017,4.1,38.4,39.7,Australian Open,2017,119
+m_2017_A_54,1st Round,1/17/2017,3.78,41.9,62.8,Australian Open,2017,314
+m_2017_A_55,1st Round,1/17/2017,3.8,36.4,39,Australian Open,2017,156
+m_2017_A_56,1st Round,1/17/2017,4.2,42.3,35,Australian Open,2017,105
+m_2017_A_57,1st Round,1/17/2017,3.7,37.8,28.3,Australian Open,2017,85
+m_2017_A_58,1st Round,1/17/2017,4.41,36.8,48.5,Australian Open,2017,97
+m_2017_A_59,1st Round,1/17/2017,3.68,37.8,30.7,Australian Open,2017,92
+m_2017_A_60,1st Round,1/17/2017,3.73,34.5,41,Australian Open,2017,123
+m_2017_A_61,1st Round,1/17/2017,4.03,38,40.3,Australian Open,2017,121
+m_2017_A_62,1st Round,1/17/2017,5.19,42,46.7,Australian Open,2017,140
+m_2017_A_63,1st Round,1/17/2017,4.05,39.8,38.5,Australian Open,2017,154
+m_2017_A_64,2nd Round,1/18/2017,4.5,41.5,42,Australian Open,2017,126
+m_2017_A_65,2nd Round,1/18/2017,3.34,33.4,32.3,Australian Open,2017,97
+m_2017_A_66,2nd Round,1/18/2017,4.2,38.4,35,Australian Open,2017,105
+m_2017_A_67,2nd Round,1/18/2017,3.86,37.5,33.8,Australian Open,2017,135
+m_2017_A_68,2nd Round,1/18/2017,4.03,36.1,50,Australian Open,2017,250
+m_2017_A_69,2nd Round,1/18/2017,4.31,36.8,41.7,Australian Open,2017,125
+m_2017_A_70,2nd Round,1/18/2017,3.83,36.8,37,Australian Open,2017,111
+m_2017_A_71,2nd Round,1/18/2017,4.93,43.4,45.4,Australian Open,2017,227
+m_2017_A_72,2nd Round,1/18/2017,3.73,34.5,41,Australian Open,2017,123
+m_2017_A_73,2nd Round,1/18/2017,4.22,39.3,38,Australian Open,2017,152
+m_2017_A_74,2nd Round,1/18/2017,4.32,34.3,36,Australian Open,2017,108
+m_2017_A_75,2nd Round,1/18/2017,3.42,35.3,37.6,Australian Open,2017,188
+m_2017_A_76,2nd Round,1/18/2017,4.54,42,44.3,Australian Open,2017,177
+m_2017_A_77,2nd Round,1/18/2017,4.62,36.9,44.7,Australian Open,2017,134
+m_2017_A_78,2nd Round,1/18/2017,4.35,40.3,50,Australian Open,2017,200
+m_2017_A_79,2nd Round,1/18/2017,4.17,43,32,Australian Open,2017,96
+m_2017_A_80,2nd Round,1/19/2017,5,44.1,35,Australian Open,2017,105
+m_2017_A_81,2nd Round,1/19/2017,4.08,37.9,35.3,Australian Open,2017,106
+m_2017_A_82,2nd Round,1/19/2017,4.11,39.2,37,Australian Open,2017,111
+m_2017_A_83,2nd Round,1/19/2017,4,38.9,32,Australian Open,2017,96
+m_2017_A_84,2nd Round,1/19/2017,4.96,39.7,43,Australian Open,2017,129
+m_2017_A_85,2nd Round,1/19/2017,4.22,42.4,39,Australian Open,2017,156
+m_2017_A_86,2nd Round,1/19/2017,4.61,38,41.5,Australian Open,2017,166
+m_2017_A_87,2nd Round,1/19/2017,5.33,45.6,57.6,Australian Open,2017,288
+m_2017_A_88,2nd Round,1/19/2017,3.84,38,39.7,Australian Open,2017,119
+m_2017_A_89,2nd Round,1/19/2017,4.16,39.2,34.7,Australian Open,2017,104
+m_2017_A_90,2nd Round,1/19/2017,3.63,32.4,29,Australian Open,2017,116
+m_2017_A_91,2nd Round,1/19/2017,4,39.1,40,Australian Open,2017,120
+m_2017_A_92,2nd Round,1/19/2017,4.3,38.2,38.7,Australian Open,2017,116
+m_2017_A_93,2nd Round,1/19/2017,4.24,37.1,41.6,Australian Open,2017,208
+m_2017_A_94,2nd Round,1/19/2017,4.41,41.4,40.8,Australian Open,2017,163
+m_2017_A_95,2nd Round,1/19/2017,5.28,44.5,44,Australian Open,2017,132
+m_2017_A_96,3rd Round,1/20/2017,4.25,42.8,46.8,Australian Open,2017,187
+m_2017_A_97,3rd Round,1/20/2017,4.73,39.8,53.3,Australian Open,2017,213
+m_2017_A_98,3rd Round,1/20/2017,4.41,40.1,35.3,Australian Open,2017,141
+m_2017_A_99,3rd Round,1/20/2017,4.11,38.2,38,Australian Open,2017,152
+m_2017_A_100,3rd Round,1/20/2017,4.25,41.3,39.7,Australian Open,2017,119
+m_2017_A_101,3rd Round,1/20/2017,4.67,40.6,56,Australian Open,2017,168
+m_2017_A_102,3rd Round,1/20/2017,4.37,43.2,43.7,Australian Open,2017,131
+m_2017_A_103,3rd Round,1/20/2017,3.21,35.8,30,Australian Open,2017,90
+m_2017_A_104,3rd Round,1/21/2017,3.22,36.3,29,Australian Open,2017,87
+m_2017_A_105,3rd Round,1/21/2017,3.86,36.1,35.8,Australian Open,2017,143
+m_2017_A_106,3rd Round,1/21/2017,5.26,43.6,60.5,Australian Open,2017,242
+m_2017_A_107,3rd Round,1/21/2017,4.31,42.5,41.4,Australian Open,2017,207
+m_2017_A_108,3rd Round,1/21/2017,5.1,45.7,49,Australian Open,2017,245
+m_2017_A_109,3rd Round,1/21/2017,4.05,41.8,38.5,Australian Open,2017,154
+m_2017_A_110,3rd Round,1/21/2017,3.71,39,38.3,Australian Open,2017,115
+m_2017_A_111,3rd Round,1/21/2017,4.52,41.4,40.7,Australian Open,2017,122
+m_2017_A_112,4th Round,1/22/2017,5.07,45.3,53.3,Australian Open,2017,213
+m_2017_A_113,4th Round,1/22/2017,4.53,38.7,54.3,Australian Open,2017,163
+m_2017_A_114,4th Round,1/22/2017,4.33,39.2,43.3,Australian Open,2017,173
+m_2017_A_115,4th Round,1/22/2017,4.23,39,40.6,Australian Open,2017,203
+m_2017_A_116,4th Round,1/23/2017,4.08,38.7,40.8,Australian Open,2017,163
+m_2017_A_117,4th Round,1/23/2017,4.11,42.8,36,Australian Open,2017,144
+m_2017_A_118,4th Round,1/23/2017,4.5,42.8,42.8,Australian Open,2017,171
+m_2017_A_119,4th Round,1/23/2017,4.61,45.5,43.8,Australian Open,2017,175
+m_2017_A_120,Quarterfinals,1/24/2017,4.32,41.7,44.7,Australian Open,2017,134
+m_2017_A_121,Quarterfinals,1/24/2017,3.41,31.4,30.7,Australian Open,2017,92
+m_2017_A_122,Quarterfinals,1/25/2017,4.89,41.7,44,Australian Open,2017,132
+m_2017_A_123,Quarterfinals,1/25/2017,5.13,46.4,54.7,Australian Open,2017,164
+m_2017_A_124,Semifinals,1/26/2017,3.91,39.7,36.8,Australian Open,2017,184
+m_2017_A_125,Semifinals,1/27/2017,5.38,48.7,59.2,Australian Open,2017,296
+m_2017_A_126,The Final,1/29/2017,4.93,45.1,43.4,Australian Open,2017,217
+m_2019_F_0,1st Round,5/26/2019,4.64,42.9,43.3,French Open,2019,130
+m_2019_F_1,1st Round,5/26/2019,4.41,40.6,43,French Open,2019,172
+m_2019_F_2,1st Round,5/26/2019,5.12,48.7,44.3,French Open,2019,133
+m_2019_F_3,1st Round,5/26/2019,5.2,46.6,52,French Open,2019,208
+m_2019_F_4,1st Round,5/26/2019,3.96,38.7,36.4,French Open,2019,182
+m_2019_F_5,1st Round,5/26/2019,3.86,40.8,36,French Open,2019,108
+m_2019_F_6,1st Round,5/26/2019,3.97,37.2,31.8,French Open,2019,127
+m_2019_F_7,1st Round,5/26/2019,4.41,41.8,39.7,French Open,2019,119
+m_2019_F_8,1st Round,5/26/2019,4.13,39.9,39.6,French Open,2019,198
+m_2019_F_9,1st Round,5/26/2019,3.61,37.4,33.7,French Open,2019,101
+m_2019_F_10,1st Round,5/26/2019,3.26,35.2,25,French Open,2019,75
+m_2019_F_11,1st Round,5/26/2019,4.8,42.2,44.2,French Open,2019,221
+m_2019_F_12,1st Round,5/26/2019,4.59,43.1,44.3,French Open,2019,133
+m_2019_F_13,1st Round,5/26/2019,4.77,40,46.5,French Open,2019,186
+m_2019_F_14,1st Round,5/26/2019,4.78,43.2,43,French Open,2019,129
+m_2019_F_15,1st Round,5/26/2019,3.82,38.8,28,French Open,2019,84
+m_2019_F_16,1st Round,5/27/2019,3.38,34.5,29.3,French Open,2019,88
+m_2019_F_17,1st Round,5/27/2019,3.94,39.7,38.6,French Open,2019,193
+m_2019_F_18,1st Round,5/27/2019,4.25,41.4,34,French Open,2019,102
+m_2019_F_19,1st Round,5/27/2019,3.78,37.5,34,French Open,2019,102
+m_2019_F_20,1st Round,5/27/2019,4.78,43.9,46.8,French Open,2019,234
+m_2019_F_21,1st Round,5/27/2019,4.12,39.5,34.6,French Open,2019,173
+m_2019_F_22,1st Round,5/27/2019,4.28,38.8,45.7,French Open,2019,137
+m_2019_F_23,1st Round,5/27/2019,5.64,48.5,62,French Open,2019,186
+m_2019_F_24,1st Round,5/27/2019,4.64,39.6,55.7,French Open,2019,167
+m_2019_F_25,1st Round,5/27/2019,3.54,37.6,33,French Open,2019,99
+m_2019_F_26,1st Round,5/27/2019,4.07,42,38,French Open,2019,114
+m_2019_F_27,1st Round,5/27/2019,4.88,46.2,39,French Open,2019,117
+m_2019_F_28,1st Round,5/27/2019,4.38,44.2,42.8,French Open,2019,171
+m_2019_F_29,1st Round,5/27/2019,4.94,44,44.5,French Open,2019,178
+m_2019_F_30,1st Round,5/27/2019,5,40.8,41.7,French Open,2019,125
+m_2019_F_31,1st Round,5/27/2019,3.94,39.4,35.5,French Open,2019,142
+m_2019_F_32,1st Round,5/27/2019,4.39,38.8,41,French Open,2019,123
+m_2019_F_33,1st Round,5/27/2019,3.71,37.4,35.3,French Open,2019,141
+m_2019_F_34,1st Round,5/27/2019,4.63,43.2,46.3,French Open,2019,185
+m_2019_F_35,1st Round,5/27/2019,3.69,42,32,French Open,2019,96
+m_2019_F_36,1st Round,5/27/2019,3.73,37.7,29.8,French Open,2019,149
+m_2019_F_37,1st Round,5/27/2019,3.94,34.6,34.5,French Open,2019,138
+m_2019_F_38,1st Round,5/27/2019,4.43,42.7,44.3,French Open,2019,177
+m_2019_F_39,1st Round,5/27/2019,3.58,30.8,38.5,French Open,2019,154
+m_2019_F_40,1st Round,5/27/2019,3.36,38.1,31.3,French Open,2019,94
+m_2019_F_41,1st Round,5/27/2019,4.19,35,43.3,French Open,2019,130
+m_2019_F_42,1st Round,5/27/2019,3.78,39.7,37.8,French Open,2019,151
+m_2019_F_43,1st Round,5/28/2019,4.27,39.3,35.3,French Open,2019,141
+m_2019_F_44,1st Round,5/28/2019,3.42,28.9,27.3,French Open,2019,82
+m_2019_F_45,1st Round,5/28/2019,4.73,42.2,39,French Open,2019,156
+m_2019_F_46,1st Round,5/28/2019,3.74,37.7,31.8,French Open,2019,127
+m_2019_F_47,1st Round,5/28/2019,4.96,43.5,49.6,French Open,2019,248
+m_2019_F_48,1st Round,5/28/2019,4.18,39,37.6,French Open,2019,188
+m_2019_F_49,1st Round,5/28/2019,3.65,36.8,28,French Open,2019,84
+m_2019_F_50,1st Round,5/28/2019,4.63,44.1,41.7,French Open,2019,125
+m_2019_F_51,1st Round,5/28/2019,4.31,41.9,41.7,French Open,2019,125
+m_2019_F_52,1st Round,5/28/2019,4.32,41.8,48.4,French Open,2019,242
+m_2019_F_53,1st Round,5/28/2019,3.88,37.3,46.5,French Open,2019,186
+m_2019_F_54,1st Round,5/28/2019,3.78,40,34,French Open,2019,102
+m_2019_F_55,1st Round,5/28/2019,4.41,39,42.7,French Open,2019,128
+m_2019_F_56,1st Round,5/28/2019,4.71,46,45.2,French Open,2019,226
+m_2019_F_57,1st Round,5/28/2019,4.04,38.5,32.3,French Open,2019,97
+m_2019_F_58,1st Round,5/28/2019,3.74,40,38.7,French Open,2019,116
+m_2019_F_59,1st Round,5/28/2019,5.39,46.1,51.3,French Open,2019,205
+m_2019_F_60,1st Round,5/28/2019,3.75,35.2,37.5,French Open,2019,150
+m_2019_F_61,1st Round,5/28/2019,4.84,42.8,44.8,French Open,2019,179
+m_2019_F_62,1st Round,5/28/2019,4.87,42.4,44.8,French Open,2019,224
+m_2019_F_63,1st Round,5/28/2019,4.39,39.6,33.7,French Open,2019,101
+m_2019_F_64,2nd Round,5/29/2019,4.57,42.3,42.3,French Open,2019,169
+m_2019_F_65,2nd Round,5/29/2019,4.19,42.1,37.8,French Open,2019,151
+m_2019_F_66,2nd Round,5/29/2019,5.16,53,43,French Open,2019,129
+m_2019_F_67,2nd Round,5/29/2019,4.04,38.9,36.3,French Open,2019,109
+m_2019_F_68,2nd Round,5/29/2019,4.55,42.8,45.5,French Open,2019,182
+m_2019_F_69,2nd Round,5/29/2019,3.72,40.4,33.5,French Open,2019,134
+m_2019_F_70,2nd Round,5/29/2019,4.22,37.9,45,French Open,2019,135
+m_2019_F_71,2nd Round,5/29/2019,4.64,41.4,51,French Open,2019,255
+m_2019_F_72,2nd Round,5/29/2019,4.48,40.8,40.3,French Open,2019,121
+m_2019_F_73,2nd Round,5/29/2019,4.55,40.3,47,French Open,2019,141
+m_2019_F_74,2nd Round,5/29/2019,4.96,44.3,52.6,French Open,2019,263
+m_2019_F_75,2nd Round,5/29/2019,4.35,38.2,33.3,French Open,2019,100
+m_2019_F_76,2nd Round,5/29/2019,3.31,36,32,French Open,2019,96
+m_2019_F_77,2nd Round,5/29/2019,4.55,40,54.6,French Open,2019,273
+m_2019_F_78,2nd Round,5/29/2019,4.87,40.7,37.3,French Open,2019,112
+m_2019_F_79,2nd Round,5/30/2019,4.42,42.7,53,French Open,2019,106
+m_2019_F_80,2nd Round,5/30/2019,3.57,34.6,37.5,French Open,2019,150
+m_2019_F_81,2nd Round,5/30/2019,5.52,47.3,46,French Open,2019,138
+m_2019_F_82,2nd Round,5/30/2019,4.56,41.3,46.8,French Open,2019,187
+m_2019_F_83,2nd Round,5/30/2019,4.25,39.4,39.7,French Open,2019,119
+m_2019_F_84,2nd Round,5/30/2019,3.58,37.7,31,French Open,2019,93
+m_2019_F_85,2nd Round,5/30/2019,5.26,46.1,56.5,French Open,2019,226
+m_2019_F_86,2nd Round,5/30/2019,3.5,36.3,32.7,French Open,2019,98
+m_2019_F_87,2nd Round,5/30/2019,4.41,38.8,48.5,French Open,2019,194
+m_2019_F_88,2nd Round,5/30/2019,3.78,39.4,37.8,French Open,2019,151
+m_2019_F_89,2nd Round,5/30/2019,4.52,42.2,45.2,French Open,2019,226
+m_2019_F_90,2nd Round,5/30/2019,3.55,37.7,34.3,French Open,2019,103
+m_2019_F_91,2nd Round,5/30/2019,4.31,43.6,41.7,French Open,2019,125
+m_2019_F_92,2nd Round,5/30/2019,3.52,38.3,29.3,French Open,2019,88
+m_2019_F_93,2nd Round,5/30/2019,4.23,38.8,41.3,French Open,2019,165
+m_2019_F_94,2nd Round,5/30/2019,3.89,38.1,36,French Open,2019,144
+m_2019_F_95,2nd Round,5/31/2019,4.57,42.3,49.4,French Open,2019,247
+m_2019_F_96,3rd Round,5/31/2019,4.84,44.3,53.2,French Open,2019,266
+m_2019_F_97,3rd Round,5/31/2019,4.1,39.9,41,French Open,2019,123
+m_2019_F_98,3rd Round,5/31/2019,4.68,38.5,43.7,French Open,2019,131
+m_2019_F_99,3rd Round,5/31/2019,4.81,42.4,51.8,French Open,2019,207
+m_2019_F_100,3rd Round,5/31/2019,4.24,41.1,41.6,French Open,2019,208
+m_2019_F_101,3rd Round,5/31/2019,4.83,50.4,42.3,French Open,2019,169
+m_2019_F_102,3rd Round,1/6/2019,4.87,43.8,47.5,French Open,2019,190
+m_2019_F_103,3rd Round,1/6/2019,4.26,40.8,36.6,French Open,2019,183
+m_2019_F_104,3rd Round,1/6/2019,4.76,42.9,53.5,French Open,2019,214
+m_2019_F_105,3rd Round,1/6/2019,4.44,42.7,52.4,French Open,2019,262
+m_2019_F_106,3rd Round,1/6/2019,5.44,43.6,65.3,French Open,2019,196
+m_2019_F_107,3rd Round,1/6/2019,4.77,47.7,41.3,French Open,2019,124
+m_2019_F_108,3rd Round,1/6/2019,4,40.7,39,French Open,2019,156
+m_2019_F_109,3rd Round,1/6/2019,4.62,41.1,40,French Open,2019,120
+m_2019_F_110,3rd Round,1/6/2019,4.65,45.1,40.3,French Open,2019,121
+m_2019_F_111,3rd Round,1/6/2019,3.88,40.4,33.7,French Open,2019,101
+m_2019_F_112,4th Round,2/6/2019,3.92,39,34,French Open,2019,102
+m_2019_F_113,4th Round,2/6/2019,5.42,47.7,61.8,French Open,2019,309
+m_2019_F_114,4th Round,2/6/2019,5.12,50.5,44.3,French Open,2019,133
+m_2019_F_115,4th Round,3/6/2019,4.9,39.3,47,French Open,2019,235
+m_2019_F_116,4th Round,3/6/2019,3.72,40.1,31,French Open,2019,93
+m_2019_F_117,4th Round,3/6/2019,3.86,40.5,36,French Open,2019,108
+m_2019_F_118,4th Round,3/6/2019,4.73,39.8,43.8,French Open,2019,175
+m_2019_F_119,4th Round,3/6/2019,4.85,43.8,47.3,French Open,2019,189
+m_2019_F_120,Quarterfinals,4/6/2019,4.89,40.3,53.8,French Open,2019,215
+m_2019_F_121,Quarterfinals,4/6/2019,4.83,46.6,37,French Open,2019,111
+m_2019_F_122,Quarterfinals,6/6/2019,4.61,45.5,43,French Open,2019,129
+m_2019_F_123,Quarterfinals,6/6/2019,4.12,40.9,35.7,French Open,2019,107
+m_2019_F_124,Semifinals,7/6/2019,5.37,48.1,48.3,French Open,2019,145
+m_2019_F_125,Semifinals,8/6/2019,4.77,46.6,50.6,French Open,2019,253
+m_2019_F_126,The Final,9/6/2019,5.17,54.8,45.3,French Open,2019,181
+m_2018_F_0,1st Round,5/27/2018,3.56,37.9,30.6,French Open,2018,153
+m_2018_F_1,1st Round,5/27/2018,4.27,37.8,37,French Open,2018,111
+m_2018_F_2,1st Round,5/27/2018,4.21,42.8,40.7,French Open,2018,122
+m_2018_F_3,1st Round,5/27/2018,3.62,39.5,34,French Open,2018,170
+m_2018_F_4,1st Round,5/27/2018,4.19,38.6,32.5,French Open,2018,130
+m_2018_F_5,1st Round,5/27/2018,4.95,46.3,50.8,French Open,2018,203
+m_2018_F_6,1st Round,5/27/2018,4.41,40.4,45.3,French Open,2018,181
+m_2018_F_7,1st Round,5/27/2018,4.48,42.6,46.3,French Open,2018,139
+m_2018_F_8,1st Round,5/27/2018,4,39.6,42.7,French Open,2018,128
+m_2018_F_9,1st Round,5/27/2018,4.76,42.3,52.4,French Open,2018,262
+m_2018_F_10,1st Round,5/27/2018,3.28,35.9,29.5,French Open,2018,118
+m_2018_F_11,1st Round,5/27/2018,3.67,36,33,French Open,2018,99
+m_2018_F_12,1st Round,5/27/2018,4.57,41.9,43,French Open,2018,215
+m_2018_F_13,1st Round,5/27/2018,3.14,34.8,23,French Open,2018,69
+m_2018_F_14,1st Round,5/27/2018,4,40.2,34.4,French Open,2018,172
+m_2018_F_15,1st Round,5/27/2018,4.09,40.9,32.8,French Open,2018,131
+m_2018_F_16,1st Round,5/28/2018,3.81,38.2,44.2,French Open,2018,221
+m_2018_F_17,1st Round,5/28/2018,4.38,39.9,42,French Open,2018,210
+m_2018_F_18,1st Round,5/28/2018,4.13,37.4,41.3,French Open,2018,165
+m_2018_F_19,1st Round,5/28/2018,4.91,43.4,52.8,French Open,2018,211
+m_2018_F_20,1st Round,5/28/2018,4.65,44.5,43,French Open,2018,172
+m_2018_F_21,1st Round,5/28/2018,3.77,39.2,37.7,French Open,2018,113
+m_2018_F_22,1st Round,5/28/2018,4.14,38.4,43.5,French Open,2018,174
+m_2018_F_23,1st Round,5/28/2018,4.56,39,41,French Open,2018,41
+m_2018_F_24,1st Round,5/28/2018,3.68,36.6,30.7,French Open,2018,92
+m_2018_F_25,1st Round,5/28/2018,4.47,43.8,42,French Open,2018,210
+m_2018_F_26,1st Round,5/28/2018,4.72,41.4,51,French Open,2018,255
+m_2018_F_27,1st Round,5/28/2018,4.31,40.3,41.7,French Open,2018,125
+m_2018_F_28,1st Round,5/28/2018,4.3,44,39.8,French Open,2018,159
+m_2018_F_29,1st Round,5/28/2018,4.16,40.3,34.7,French Open,2018,104
+m_2018_F_30,1st Round,5/28/2018,4.88,44.6,78,French Open,2018,78
+m_2018_F_31,1st Round,5/28/2018,3.6,34.4,36,French Open,2018,144
+m_2018_F_32,1st Round,5/28/2018,4.09,40.6,36,French Open,2018,180
+m_2018_F_33,1st Round,5/28/2018,4.66,39.8,44.3,French Open,2018,177
+m_2018_F_34,1st Round,5/28/2018,4.38,42.3,42.3,French Open,2018,127
+m_2018_F_35,1st Round,5/28/2018,5.2,43,42.6,French Open,2018,213
+m_2018_F_36,1st Round,5/28/2018,4.07,37.3,36.7,French Open,2018,110
+m_2018_F_37,1st Round,5/28/2018,3.78,39.2,29,French Open,2018,87
+m_2018_F_38,1st Round,5/28/2018,3.91,38.8,28.7,French Open,2018,86
+m_2018_F_39,1st Round,5/29/2018,4.81,45.1,43.3,French Open,2018,130
+m_2018_F_40,1st Round,5/29/2018,4.03,37.6,44.3,French Open,2018,133
+m_2018_F_41,1st Round,5/29/2018,3.64,34,26.7,French Open,2018,80
+m_2018_F_42,1st Round,5/29/2018,4.07,39.5,38,French Open,2018,114
+m_2018_F_43,1st Round,5/29/2018,3.85,36.7,32.8,French Open,2018,131
+m_2018_F_44,1st Round,5/29/2018,4.1,40.1,41,French Open,2018,123
+m_2018_F_45,1st Round,5/29/2018,4.08,39,34,French Open,2018,102
+m_2018_F_46,1st Round,5/29/2018,4.68,39.9,44,French Open,2018,220
+m_2018_F_47,1st Round,5/29/2018,4.18,38.2,46,French Open,2018,138
+m_2018_F_48,1st Round,5/29/2018,4.37,38.9,43.7,French Open,2018,131
+m_2018_F_49,1st Round,5/29/2018,4.72,40.9,39.3,French Open,2018,118
+m_2018_F_50,1st Round,5/29/2018,4.3,43.8,38.7,French Open,2018,116
+m_2018_F_51,1st Round,5/29/2018,4.48,39.5,44.8,French Open,2018,179
+m_2018_F_52,1st Round,5/29/2018,4.07,39.8,36.7,French Open,2018,110
+m_2018_F_53,1st Round,5/29/2018,4.81,37.5,43.3,French Open,2018,130
+m_2018_F_54,1st Round,5/29/2018,4.39,40.8,41,French Open,2018,123
+m_2018_F_55,1st Round,5/29/2018,5.71,49.2,59,French Open,2018,177
+m_2018_F_56,1st Round,5/29/2018,4.41,41.7,45,French Open,2018,225
+m_2018_F_57,1st Round,5/29/2018,4.71,38.6,44,French Open,2018,132
+m_2018_F_58,1st Round,5/29/2018,4.11,39.4,37,French Open,2018,111
+m_2018_F_59,1st Round,5/29/2018,3.97,40.7,31.8,French Open,2018,127
+m_2018_F_60,1st Round,5/29/2018,4.38,38.4,38,French Open,2018,114
+m_2018_F_61,1st Round,5/30/2018,5,42.5,46.3,French Open,2018,185
+m_2018_F_62,1st Round,5/30/2018,4.17,39.6,36.5,French Open,2018,146
+m_2018_F_63,1st Round,5/30/2018,4.96,42.9,50.6,French Open,2018,253
+m_2018_F_64,2nd Round,5/30/2018,4.58,38.6,49.3,French Open,2018,197
+m_2018_F_65,2nd Round,5/30/2018,4.54,37.1,39.3,French Open,2018,118
+m_2018_F_66,2nd Round,5/30/2018,4.63,41.7,45.4,French Open,2018,227
+m_2018_F_67,2nd Round,5/30/2018,4.1,39.3,42.3,French Open,2018,127
+m_2018_F_68,2nd Round,5/30/2018,4.31,42.9,46,French Open,2018,138
+m_2018_F_69,2nd Round,5/30/2018,4.84,42,40.3,French Open,2018,121
+m_2018_F_70,2nd Round,5/30/2018,4.32,44.9,51.8,French Open,2018,259
+m_2018_F_71,2nd Round,5/30/2018,4.53,41.2,40.8,French Open,2018,204
+m_2018_F_72,2nd Round,5/30/2018,4.07,39.3,35.8,French Open,2018,179
+m_2018_F_73,2nd Round,5/30/2018,4.58,43,41.3,French Open,2018,165
+m_2018_F_74,2nd Round,5/30/2018,4.96,41.3,41.3,French Open,2018,124
+m_2018_F_75,2nd Round,5/30/2018,4.22,42.2,38,French Open,2018,152
+m_2018_F_76,2nd Round,5/30/2018,4.68,41.4,48,French Open,2018,192
+m_2018_F_77,2nd Round,5/30/2018,4.11,40.1,38.3,French Open,2018,115
+m_2018_F_78,2nd Round,5/31/2018,4.39,40.1,43,French Open,2018,215
+m_2018_F_79,2nd Round,5/31/2018,4.25,38.5,42.5,French Open,2018,170
+m_2018_F_80,2nd Round,5/31/2018,4.15,40.4,47.8,French Open,2018,191
+m_2018_F_81,2nd Round,5/31/2018,3.89,38.3,37,French Open,2018,148
+m_2018_F_82,2nd Round,5/31/2018,4.68,41.5,39,French Open,2018,117
+m_2018_F_83,2nd Round,5/31/2018,4.56,46.8,36.5,French Open,2018,146
+m_2018_F_84,2nd Round,5/31/2018,4.53,45.3,34,French Open,2018,136
+m_2018_F_85,2nd Round,5/31/2018,4.8,43,48,French Open,2018,192
+m_2018_F_86,2nd Round,5/31/2018,4.44,41.6,40,French Open,2018,160
+m_2018_F_87,2nd Round,5/31/2018,4.1,42.4,41,French Open,2018,164
+m_2018_F_88,2nd Round,5/31/2018,3.88,37.8,40.8,French Open,2018,163
+m_2018_F_89,2nd Round,5/31/2018,4.19,43,33.5,French Open,2018,134
+m_2018_F_90,2nd Round,5/31/2018,4.54,42.6,42.3,French Open,2018,127
+m_2018_F_91,2nd Round,5/31/2018,5.59,48.6,41,French Open,2018,123
+m_2018_F_92,2nd Round,5/31/2018,3.84,39.2,42.3,French Open,2018,169
+m_2018_F_93,2nd Round,5/31/2018,4.12,40.3,41.2,French Open,2018,206
+m_2018_F_94,2nd Round,5/31/2018,4.26,43.4,38.3,French Open,2018,115
+m_2018_F_95,2nd Round,5/31/2018,3.78,38.1,29,French Open,2018,87
+m_2018_F_96,3rd Round,1/6/2018,4.59,42.9,46.8,French Open,2018,234
+m_2018_F_97,3rd Round,1/6/2018,4.7,41.1,47,French Open,2018,141
+m_2018_F_98,3rd Round,1/6/2018,5.43,48.9,57,French Open,2018,228
+m_2018_F_99,3rd Round,1/6/2018,4.84,44.8,40.3,French Open,2018,121
+m_2018_F_100,3rd Round,1/6/2018,3.86,38.4,34.8,French Open,2018,139
+m_2018_F_101,3rd Round,1/6/2018,4.13,40.1,39.3,French Open,2018,157
+m_2018_F_102,3rd Round,2/6/2018,4.46,45.2,42.8,French Open,2018,214
+m_2018_F_103,3rd Round,2/6/2018,3.96,41.3,33,French Open,2018,99
+m_2018_F_104,3rd Round,2/6/2018,4.8,41.7,48,French Open,2018,144
+m_2018_F_105,3rd Round,2/6/2018,4.18,41.4,41.8,French Open,2018,167
+m_2018_F_106,3rd Round,2/6/2018,5.03,43.6,50.3,French Open,2018,151
+m_2018_F_107,3rd Round,2/6/2018,4.72,47.2,39.3,French Open,2018,118
+m_2018_F_108,3rd Round,2/6/2018,4.58,40.9,47.6,French Open,2018,238
+m_2018_F_109,3rd Round,2/6/2018,3.48,38.4,31.3,French Open,2018,94
+m_2018_F_110,3rd Round,2/6/2018,4.76,47.6,46,French Open,2018,138
+m_2018_F_111,3rd Round,2/6/2018,4.21,38.5,47.7,French Open,2018,143
+m_2018_F_112,4th Round,3/6/2018,4.35,41.5,41.8,French Open,2018,209
+m_2018_F_113,4th Round,3/6/2018,4.11,45.1,37,French Open,2018,148
+m_2018_F_114,4th Round,3/6/2018,5.37,44.6,48.3,French Open,2018,145
+m_2018_F_115,4th Round,3/6/2018,4.08,38.4,37.8,French Open,2018,151
+m_2018_F_116,4th Round,4/6/2018,4.91,43.3,46.2,French Open,2018,231
+m_2018_F_117,4th Round,4/6/2018,5.17,48.9,50,French Open,2018,150
+m_2018_F_118,4th Round,4/6/2018,4.62,41.3,43.4,French Open,2018,217
+m_2018_F_119,4th Round,4/6/2018,3.97,40.1,39.7,French Open,2018,119
+m_2018_F_120,Quarterfinals,5/6/2018,4.4,42.3,36.7,French Open,2018,110
+m_2018_F_121,Quarterfinals,5/6/2018,5.15,43.5,51.5,French Open,2018,206
+m_2018_F_122,Quarterfinals,7/6/2018,5.11,46.9,57.5,French Open,2018,230
+m_2018_F_123,Quarterfinals,7/6/2018,6.34,53.9,55.5,French Open,2018,222
+m_2018_F_124,Semifinals,8/6/2018,4.42,39.5,45.7,French Open,2018,137
+m_2018_F_125,Semifinals,8/6/2018,5.36,54.3,44.7,French Open,2018,134
+m_2018_F_126,The Final,10/6/2018,6,52.8,54,French Open,2018,162
+m_2017_F_0,1st Round,5/28/2017,4.26,45.5,44,French Open,2017,132
+m_2017_F_1,1st Round,5/28/2017,5.18,46.5,51.8,French Open,2017,207
+m_2017_F_2,1st Round,5/28/2017,5.03,45.9,46.5,French Open,2017,186
+m_2017_F_3,1st Round,5/28/2017,4.45,37.4,49,French Open,2017,147
+m_2017_F_4,1st Round,5/28/2017,4.8,44.8,48,French Open,2017,144
+m_2017_F_5,1st Round,5/28/2017,3.69,33.1,32,French Open,2017,96
+m_2017_F_6,1st Round,5/28/2017,4.04,41.7,36.3,French Open,2017,109
+m_2017_F_7,1st Round,5/28/2017,3.94,38.5,44.7,French Open,2017,134
+m_2017_F_8,1st Round,5/28/2017,4.28,41.2,35.7,French Open,2017,107
+m_2017_F_9,1st Round,5/28/2017,4.42,39.2,46.8,French Open,2017,234
+m_2017_F_10,1st Round,5/28/2017,3.33,34.3,26.7,French Open,2017,80
+m_2017_F_11,1st Round,5/28/2017,3.87,41.6,36.8,French Open,2017,147
+m_2017_F_12,1st Round,5/28/2017,4.02,40.6,40.2,French Open,2017,201
+m_2017_F_13,1st Round,5/28/2017,4.24,39,44.5,French Open,2017,178
+m_2017_F_14,1st Round,5/28/2017,4,37.9,32,French Open,2017,96
+m_2017_F_15,1st Round,5/29/2017,3.72,41.5,29.8,French Open,2017,119
+m_2017_F_16,1st Round,5/29/2017,4.1,39.9,42.3,French Open,2017,127
+m_2017_F_17,1st Round,5/29/2017,3.41,39.1,30.7,French Open,2017,92
+m_2017_F_18,1st Round,5/29/2017,4.04,40.4,42,French Open,2017,210
+m_2017_F_19,1st Round,5/29/2017,4.53,41.6,36.3,French Open,2017,145
+m_2017_F_20,1st Round,5/29/2017,4.89,39.1,45.7,French Open,2017,137
+m_2017_F_21,1st Round,5/29/2017,4.62,44.2,33.5,French Open,2017,134
+m_2017_F_22,1st Round,5/29/2017,4.88,43.7,53.7,French Open,2017,161
+m_2017_F_23,1st Round,5/29/2017,4.2,39.6,42.8,French Open,2017,214
+m_2017_F_24,1st Round,5/29/2017,4.95,41.6,47,French Open,2017,188
+m_2017_F_25,1st Round,5/29/2017,5.44,46.7,49,French Open,2017,147
+m_2017_F_26,1st Round,5/29/2017,4.26,41.5,40.5,French Open,2017,162
+m_2017_F_27,1st Round,5/29/2017,5.02,42.5,50.2,French Open,2017,251
+m_2017_F_28,1st Round,5/29/2017,4.58,41.8,36.7,French Open,2017,110
+m_2017_F_29,1st Round,5/29/2017,4.67,45.4,37.3,French Open,2017,112
+m_2017_F_30,1st Round,5/29/2017,4.12,40.4,35.7,French Open,2017,107
+m_2017_F_31,1st Round,5/29/2017,5.07,46.7,49,French Open,2017,147
+m_2017_F_32,1st Round,5/29/2017,3.97,38.9,32.8,French Open,2017,131
+m_2017_F_33,1st Round,5/29/2017,4.68,41,48.3,French Open,2017,145
+m_2017_F_34,1st Round,5/29/2017,3.74,38.8,33.7,French Open,2017,101
+m_2017_F_35,1st Round,5/29/2017,4.17,40.5,53.4,French Open,2017,267
+m_2017_F_36,1st Round,5/29/2017,5.31,43.3,52,French Open,2017,260
+m_2017_F_37,1st Round,5/29/2017,4.56,37.1,41,French Open,2017,123
+m_2017_F_38,1st Round,5/29/2017,3.9,39.5,40.3,French Open,2017,121
+m_2017_F_39,1st Round,5/29/2017,3.69,37.1,33.3,French Open,2017,133
+m_2017_F_40,1st Round,5/29/2017,4.02,39.6,33,French Open,2017,165
+m_2017_F_41,1st Round,5/29/2017,3.94,40,32.5,French Open,2017,130
+m_2017_F_42,1st Round,5/29/2017,4.09,40.1,43.7,French Open,2017,131
+m_2017_F_43,1st Round,5/30/2017,3.81,38.1,39.3,French Open,2017,118
+m_2017_F_44,1st Round,5/30/2017,3.7,36.6,37,French Open,2017,111
+m_2017_F_45,1st Round,5/30/2017,4.66,43.4,43.8,French Open,2017,219
+m_2017_F_46,1st Round,5/30/2017,4.36,42.2,36.3,French Open,2017,109
+m_2017_F_47,1st Round,5/30/2017,4.19,43.1,43.3,French Open,2017,130
+m_2017_F_48,1st Round,5/30/2017,3.65,36.2,33.8,French Open,2017,135
+m_2017_F_49,1st Round,5/30/2017,4.03,36.9,39,French Open,2017,117
+m_2017_F_50,1st Round,5/30/2017,4.7,41.2,51.7,French Open,2017,155
+m_2017_F_51,1st Round,5/30/2017,4.53,40.5,48.8,French Open,2017,195
+m_2017_F_52,1st Round,5/30/2017,4.68,40.7,43.3,French Open,2017,173
+m_2017_F_53,1st Round,5/30/2017,4.34,36.9,41.3,French Open,2017,165
+m_2017_F_54,1st Round,5/30/2017,4.92,42.5,45.5,French Open,2017,182
+m_2017_F_55,1st Round,5/30/2017,4.3,40.3,43,French Open,2017,129
+m_2017_F_56,1st Round,5/30/2017,4.47,45.6,38,French Open,2017,152
+m_2017_F_57,1st Round,5/30/2017,4.46,38.7,35.7,French Open,2017,107
+m_2017_F_58,1st Round,5/30/2017,3.21,30.7,30,French Open,2017,90
+m_2017_F_59,1st Round,5/30/2017,4.65,42.2,44.6,French Open,2017,223
+m_2017_F_60,1st Round,5/30/2017,3.66,40.8,35.3,French Open,2017,106
+m_2017_F_61,1st Round,5/30/2017,3.93,38.3,39.3,French Open,2017,157
+m_2017_F_62,1st Round,5/30/2017,4.47,39.5,38,French Open,2017,152
+m_2017_F_63,1st Round,5/31/2017,4.8,38.8,52.8,French Open,2017,211
+m_2017_F_64,2nd Round,5/31/2017,4.28,40,38.5,French Open,2017,154
+m_2017_F_65,2nd Round,5/31/2017,5.68,47.1,58.3,French Open,2017,233
+m_2017_F_66,2nd Round,5/31/2017,5.11,40.1,47.7,French Open,2017,143
+m_2017_F_67,2nd Round,5/31/2017,4.41,39.4,42.7,French Open,2017,128
+m_2017_F_68,2nd Round,5/31/2017,4.03,40.3,44.3,French Open,2017,133
+m_2017_F_69,2nd Round,5/31/2017,4.29,43.1,44.3,French Open,2017,133
+m_2017_F_70,2nd Round,5/31/2017,4.39,36.7,52.7,French Open,2017,158
+m_2017_F_71,2nd Round,5/31/2017,4.32,39,49,French Open,2017,147
+m_2017_F_72,2nd Round,5/31/2017,4.88,44.6,42.3,French Open,2017,127
+m_2017_F_73,2nd Round,5/31/2017,4.19,44.8,36.3,French Open,2017,109
+m_2017_F_74,2nd Round,5/31/2017,3.86,37.1,35.8,French Open,2017,143
+m_2017_F_75,2nd Round,5/31/2017,3.82,40.3,28,French Open,2017,84
+m_2017_F_76,2nd Round,5/31/2017,4.24,38.5,40.3,French Open,2017,161
+m_2017_F_77,2nd Round,5/31/2017,4.74,40.9,42.7,French Open,2017,128
+m_2017_F_78,2nd Round,5/31/2017,4.49,41,43.8,French Open,2017,175
+m_2017_F_79,2nd Round,5/31/2017,4.65,42.8,43,French Open,2017,172
+m_2017_F_80,2nd Round,1/6/2017,3.92,37.9,32.7,French Open,2017,98
+m_2017_F_81,2nd Round,1/6/2017,4.38,40.3,46.4,French Open,2017,232
+m_2017_F_82,2nd Round,1/6/2017,3.91,40.1,43,French Open,2017,129
+m_2017_F_83,2nd Round,1/6/2017,4.16,41.6,44.3,French Open,2017,133
+m_2017_F_84,2nd Round,1/6/2017,4.33,41.5,39,French Open,2017,117
+m_2017_F_85,2nd Round,1/6/2017,4.5,49.1,45,French Open,2017,90
+m_2017_F_86,2nd Round,1/6/2017,4.53,40.9,51.3,French Open,2017,154
+m_2017_F_87,2nd Round,1/6/2017,4.27,43,37,French Open,2017,111
+m_2017_F_88,2nd Round,1/6/2017,5.35,49,53.5,French Open,2017,214
+m_2017_F_89,2nd Round,1/6/2017,4.52,41,46.7,French Open,2017,140
+m_2017_F_90,2nd Round,1/6/2017,4.19,39.7,38.8,French Open,2017,155
+m_2017_F_91,2nd Round,1/6/2017,4.36,42.6,40.7,French Open,2017,122
+m_2017_F_92,2nd Round,1/6/2017,3.79,42,30.3,French Open,2017,91
+m_2017_F_93,2nd Round,1/6/2017,4,41.9,40,French Open,2017,120
+m_2017_F_94,2nd Round,1/6/2017,4.54,41.8,41.8,French Open,2017,209
+m_2017_F_95,2nd Round,1/6/2017,4.48,40.4,34.3,French Open,2017,103
+m_2017_F_96,3rd Round,2/6/2017,6.33,50.3,,French Open,2017,57
+m_2017_F_97,3rd Round,2/6/2017,4.45,41.4,46,French Open,2017,138
+m_2017_F_98,3rd Round,2/6/2017,4.36,43.3,40.7,French Open,2017,122
+m_2017_F_99,3rd Round,2/6/2017,3.5,35,28,French Open,2017,28
+m_2017_F_100,3rd Round,2/6/2017,4.74,45.8,30,French Open,2017,90
+m_2017_F_101,3rd Round,2/6/2017,4.39,37.3,41,French Open,2017,123
+m_2017_F_102,3rd Round,2/6/2017,4.5,44.5,39.6,French Open,2017,198
+m_2017_F_103,3rd Round,2/6/2017,5.02,43.2,44.2,French Open,2017,221
+m_2017_F_104,3rd Round,3/6/2017,4.28,42.2,35.7,French Open,2017,107
+m_2017_F_105,3rd Round,3/6/2017,4.49,43.5,47.6,French Open,2017,238
+m_2017_F_106,3rd Round,3/6/2017,5.77,49.4,57.7,French Open,2017,173
+m_2017_F_107,3rd Round,3/6/2017,3.88,38,31,French Open,2017,93
+m_2017_F_108,3rd Round,3/6/2017,4.27,40.4,37,French Open,2017,111
+m_2017_F_109,3rd Round,4/6/2017,4.62,42.8,46.2,French Open,2017,231
+m_2017_F_110,3rd Round,4/6/2017,4,37.9,45,French Open,2017,180
+m_2017_F_111,3rd Round,4/6/2017,4.65,41.9,72,French Open,2017,144
+m_2017_F_112,4th Round,4/6/2017,4.43,40.4,51.4,French Open,2017,257
+m_2017_F_113,4th Round,4/6/2017,4.78,45.8,36.7,French Open,2017,110
+m_2017_F_114,4th Round,4/6/2017,4.3,42.7,33,French Open,2017,99
+m_2017_F_115,4th Round,4/6/2017,5.25,44.5,49,French Open,2017,147
+m_2017_F_116,4th Round,5/6/2017,4.28,46.5,41.3,French Open,2017,124
+m_2017_F_117,4th Round,5/6/2017,4.81,41.8,38.5,French Open,2017,154
+m_2017_F_118,4th Round,5/6/2017,5.09,45.1,54.3,French Open,2017,163
+m_2017_F_119,4th Round,5/6/2017,4,44.3,48,French Open,2017,48
+m_2017_F_120,Quarterfinals,7/6/2017,5,43.5,45,French Open,2017,135
+m_2017_F_121,Quarterfinals,7/6/2017,5.1,56.7,51,French Open,2017,51
+m_2017_F_122,Quarterfinals,7/6/2017,4.68,47.7,39.8,French Open,2017,159
+m_2017_F_123,Quarterfinals,7/6/2017,4,41.4,33.3,French Open,2017,100
+m_2017_F_124,Semifinals,9/6/2017,5.27,48.5,54.8,French Open,2017,274
+m_2017_F_125,Semifinals,9/6/2017,5.08,49.2,42.3,French Open,2017,127
+m_2017_F_126,The Final,11/6/2017,5.21,49.7,41.7,French Open,2017,125
+m_2019_U_0,1st Round,8/26/2019,3.7,39.9,37,US Open,2019,111
+m_2019_U_1,1st Round,8/26/2019,4.1,39.1,42.6,US Open,2019,213
+m_2019_U_2,1st Round,8/26/2019,4.71,42.5,41.3,US Open,2019,165
+m_2019_U_3,1st Round,8/26/2019,4.12,40.6,35.7,US Open,2019,107
+m_2019_U_4,1st Round,8/26/2019,4.2,42.2,36.8,US Open,2019,147
+m_2019_U_5,1st Round,8/26/2019,4.91,45.3,44.2,US Open,2019,221
+m_2019_U_6,1st Round,8/26/2019,3.92,41.5,47,US Open,2019,47
+m_2019_U_7,1st Round,8/26/2019,4.4,40.4,46.3,US Open,2019,185
+m_2019_U_8,1st Round,8/26/2019,5.06,44.2,45.5,US Open,2019,182
+m_2019_U_9,1st Round,8/26/2019,3.4,37.5,28.3,US Open,2019,85
+m_2019_U_10,1st Round,8/26/2019,4.28,43.8,42.8,US Open,2019,171
+m_2019_U_11,1st Round,8/26/2019,5.47,44.7,58.3,US Open,2019,175
+m_2019_U_12,1st Round,8/26/2019,5.1,45,52,US Open,2019,260
+m_2019_U_13,1st Round,8/26/2019,4.15,41,37.3,US Open,2019,112
+m_2019_U_14,1st Round,8/26/2019,4.37,37.7,39.3,US Open,2019,118
+m_2019_U_15,1st Round,8/26/2019,4.26,39.8,40.5,US Open,2019,162
+m_2019_U_16,1st Round,8/26/2019,3.6,36.9,36,US Open,2019,144
+m_2019_U_17,1st Round,8/26/2019,4.94,45.8,42,US Open,2019,168
+m_2019_U_18,1st Round,8/26/2019,4.3,38.9,48.2,US Open,2019,241
+m_2019_U_19,1st Round,8/26/2019,4.65,39.4,53.5,US Open,2019,214
+m_2019_U_20,1st Round,8/26/2019,,,,US Open,2019,164
+m_2019_U_21,1st Round,8/26/2019,3.88,37.1,32,US Open,2019,128
+m_2019_U_22,1st Round,8/26/2019,4.26,41.3,38.3,US Open,2019,115
+m_2019_U_23,1st Round,8/26/2019,4.11,37,38.6,US Open,2019,193
+m_2019_U_24,1st Round,8/26/2019,4.06,41.4,46,US Open,2019,138
+m_2019_U_25,1st Round,8/26/2019,4.83,44,48.3,US Open,2019,193
+m_2019_U_26,1st Round,8/26/2019,3.63,37.8,34.5,US Open,2019,138
+m_2019_U_27,1st Round,8/26/2019,4.21,41.3,41,US Open,2019,164
+m_2019_U_28,1st Round,8/26/2019,4.15,37,44,US Open,2019,220
+m_2019_U_29,1st Round,8/27/2019,4.23,37.6,42.3,US Open,2019,169
+m_2019_U_30,1st Round,8/27/2019,4.83,42.9,51.2,US Open,2019,256
+m_2019_U_31,1st Round,8/27/2019,4.29,37.7,37.5,US Open,2019,150
+m_2019_U_32,1st Round,8/27/2019,4,37.2,41.3,US Open,2019,124
+m_2019_U_33,1st Round,8/27/2019,4.66,43.1,40.8,US Open,2019,163
+m_2019_U_34,1st Round,8/27/2019,5.4,44.3,64.8,US Open,2019,259
+m_2019_U_35,1st Round,8/27/2019,4.52,44.1,39.8,US Open,2019,199
+m_2019_U_36,1st Round,8/27/2019,4.86,48.6,47,US Open,2019,141
+m_2019_U_37,1st Round,8/27/2019,5.09,40.9,58.5,US Open,2019,234
+m_2019_U_38,1st Round,8/27/2019,4.31,39.3,38.8,US Open,2019,194
+m_2019_U_39,1st Round,8/27/2019,4.45,42.1,43,US Open,2019,129
+m_2019_U_40,1st Round,8/27/2019,4.3,41,35.5,US Open,2019,142
+m_2019_U_41,1st Round,8/27/2019,4.63,40.3,41.7,US Open,2019,125
+m_2019_U_42,1st Round,8/27/2019,4.92,45.7,52.2,US Open,2019,261
+m_2019_U_43,1st Round,8/27/2019,4.07,40.5,39.3,US Open,2019,118
+m_2019_U_44,1st Round,8/27/2019,4.42,41.6,38,US Open,2019,190
+m_2019_U_45,1st Round,8/27/2019,4.32,43,44.3,US Open,2019,177
+m_2019_U_46,1st Round,8/27/2019,4.46,39.3,41.7,US Open,2019,125
+m_2019_U_47,1st Round,8/27/2019,4.43,43.3,47,US Open,2019,235
+m_2019_U_48,1st Round,8/27/2019,3.97,40.7,35.8,US Open,2019,143
+m_2019_U_49,1st Round,8/27/2019,4.43,41.9,43.4,US Open,2019,217
+m_2019_U_50,1st Round,8/27/2019,5.1,45.5,51,US Open,2019,255
+m_2019_U_51,1st Round,8/27/2019,4.36,43.3,46.2,US Open,2019,231
+m_2019_U_52,1st Round,8/27/2019,5.56,49.7,57,US Open,2019,228
+m_2019_U_53,1st Round,8/27/2019,,,,US Open,2019,119
+m_2019_U_54,1st Round,8/27/2019,4.42,41.5,45.7,US Open,2019,137
+m_2019_U_55,1st Round,8/27/2019,3.86,38.8,36,US Open,2019,108
+m_2019_U_56,1st Round,8/27/2019,4.44,37.8,53.3,US Open,2019,160
+m_2019_U_57,1st Round,8/27/2019,3.2,33.7,32,US Open,2019,64
+m_2019_U_58,1st Round,8/27/2019,4.76,44.3,42.8,US Open,2019,214
+m_2019_U_59,1st Round,8/27/2019,4.08,40.3,32.7,US Open,2019,98
+m_2019_U_60,1st Round,8/28/2019,4.38,36.3,46.4,US Open,2019,232
+m_2019_U_61,1st Round,8/28/2019,4.29,40.1,44.3,US Open,2019,133
+m_2019_U_62,1st Round,8/28/2019,5.12,46.8,42.7,US Open,2019,128
+m_2019_U_63,1st Round,8/28/2019,3.94,39.8,40.7,US Open,2019,122
+m_2019_U_64,2nd Round,8/28/2019,,,,US Open,2019,
+m_2019_U_65,2nd Round,8/28/2019,4.21,42.4,41,US Open,2019,164
+m_2019_U_66,2nd Round,8/28/2019,3.94,36.1,35.5,US Open,2019,142
+m_2019_U_67,2nd Round,8/29/2019,4.66,43.8,45,US Open,2019,135
+m_2019_U_68,2nd Round,8/29/2019,4.63,39.6,49.3,US Open,2019,148
+m_2019_U_69,2nd Round,8/29/2019,3.58,37.9,28.7,US Open,2019,86
+m_2019_U_70,2nd Round,8/29/2019,4.7,41.1,47,US Open,2019,141
+m_2019_U_71,2nd Round,8/29/2019,4.19,41.5,39.4,US Open,2019,197
+m_2019_U_72,2nd Round,8/29/2019,4.63,41,47.5,US Open,2019,190
+m_2019_U_73,2nd Round,8/29/2019,4.13,38.6,40.3,US Open,2019,161
+m_2019_U_74,2nd Round,8/29/2019,4.4,40.5,37.8,US Open,2019,189
+m_2019_U_75,2nd Round,8/29/2019,5.33,43.4,57.6,US Open,2019,288
+m_2019_U_76,2nd Round,8/29/2019,4.5,37.9,48.6,US Open,2019,243
+m_2019_U_77,2nd Round,8/29/2019,4.5,39.2,40.5,US Open,2019,162
+m_2019_U_78,2nd Round,8/29/2019,4.1,40.5,41,US Open,2019,164
+m_2019_U_79,2nd Round,8/29/2019,3.88,38.1,40.8,US Open,2019,163
+m_2019_U_80,2nd Round,8/29/2019,4.32,42.8,44.3,US Open,2019,177
+m_2019_U_81,2nd Round,8/29/2019,4.87,40.7,46.3,US Open,2019,185
+m_2019_U_82,2nd Round,8/29/2019,4.49,39.6,46,US Open,2019,184
+m_2019_U_83,2nd Round,8/29/2019,4.09,39.7,45,US Open,2019,135
+m_2019_U_84,2nd Round,8/29/2019,4.19,40.4,38.8,US Open,2019,155
+m_2019_U_85,2nd Round,8/29/2019,4.23,37,44,US Open,2019,220
+m_2019_U_86,2nd Round,8/29/2019,4.42,46,38.3,US Open,2019,115
+m_2019_U_87,2nd Round,8/29/2019,0,0,0,US Open,2019,0
+m_2019_U_88,2nd Round,8/29/2019,5.13,47.3,41,US Open,2019,41
+m_2019_U_89,2nd Round,8/29/2019,4.08,37.9,32.7,US Open,2019,98
+m_2019_U_90,2nd Round,8/29/2019,4.21,40,39.3,US Open,2019,118
+m_2019_U_91,2nd Round,8/29/2019,4.23,42.6,42.3,US Open,2019,169
+m_2019_U_92,2nd Round,8/29/2019,3.32,35.3,27.7,US Open,2019,83
+m_2019_U_93,2nd Round,8/30/2019,4.21,41.5,40.4,US Open,2019,202
+m_2019_U_94,2nd Round,8/30/2019,,,,US Open,2019,
+m_2019_U_95,2nd Round,8/30/2019,4.45,43.6,44.5,US Open,2019,178
+m_2019_U_96,3rd Round,8/30/2019,4.86,43.6,42.5,US Open,2019,170
+m_2019_U_97,3rd Round,8/30/2019,3.48,37.5,26.7,US Open,2019,80
+m_2019_U_98,3rd Round,8/30/2019,5.36,44.4,64.3,US Open,2019,193
+m_2019_U_99,3rd Round,8/30/2019,5.24,43.2,59.3,US Open,2019,178
+m_2019_U_100,3rd Round,8/30/2019,4.28,39.9,45.7,US Open,2019,137
+m_2019_U_101,3rd Round,8/30/2019,4.21,39,40,US Open,2019,160
+m_2019_U_102,3rd Round,8/31/2019,4.52,40.6,49.8,US Open,2019,199
+m_2019_U_103,3rd Round,8/31/2019,4.56,40.3,41,US Open,2019,123
+m_2019_U_104,3rd Round,8/31/2019,4.41,39,39.7,US Open,2019,119
+m_2019_U_105,3rd Round,8/31/2019,4.41,47.3,39.7,US Open,2019,119
+m_2019_U_106,3rd Round,8/31/2019,4.8,42.8,54,US Open,2019,216
+m_2019_U_107,3rd Round,8/31/2019,4.63,41.3,49.8,US Open,2019,199
+m_2019_U_108,3rd Round,8/31/2019,4.89,40.2,53.8,US Open,2019,215
+m_2019_U_109,3rd Round,8/31/2019,4.42,41.1,38.3,US Open,2019,115
+m_2019_U_110,3rd Round,1/9/2019,3.89,36,42.8,US Open,2019,214
+m_2019_U_111,3rd Round,1/9/2019,3.36,32.6,37,US Open,2019,111
+m_2019_U_112,4th Round,1/9/2019,3.59,38.9,26.3,US Open,2019,79
+m_2019_U_113,4th Round,1/9/2019,4.03,39.3,41.7,US Open,2019,125
+m_2019_U_114,4th Round,1/9/2019,4,39.1,38,US Open,2019,152
+m_2019_U_115,4th Round,2/9/2019,4.24,44.5,53,US Open,2019,106
+m_2019_U_116,4th Round,2/9/2019,5.22,43.9,47,US Open,2019,188
+m_2019_U_117,4th Round,2/9/2019,4.52,39.9,43.7,US Open,2019,131
+m_2019_U_118,4th Round,2/9/2019,3.74,39.7,28.7,US Open,2019,86
+m_2019_U_119,4th Round,3/9/2019,5.12,51.7,42.3,US Open,2019,169
+m_2019_U_120,Quarterfinals,3/9/2019,4.16,38.5,38.5,US Open,2019,154
+m_2019_U_121,Quarterfinals,4/9/2019,4.17,41.9,38.4,US Open,2019,192
+m_2019_U_122,Quarterfinals,4/9/2019,5.04,43.9,47.4,US Open,2019,237
+m_2019_U_123,Quarterfinals,5/9/2019,5.57,54.5,55.7,US Open,2019,167
+m_2019_U_124,Semifinals,6/9/2019,5.1,44.3,52.7,US Open,2019,158
+m_2019_U_125,Semifinals,7/9/2019,5.34,48.2,51.7,US Open,2019,155
+m_2019_U_126,The Final,8/9/2019,5.47,51,58,US Open,2019,290
+m_2018_U_0,1st Round,8/27/2018,5.52,42.2,46,US Open,2018,138
+m_2018_U_1,1st Round,8/27/2018,4.92,43.5,48,US Open,2018,192
+m_2018_U_2,1st Round,8/27/2018,4.57,43.6,51.2,US Open,2018,256
+m_2018_U_3,1st Round,8/27/2018,4.08,41.6,35.3,US Open,2018,106
+m_2018_U_4,1st Round,8/27/2018,4.74,44.7,42.7,US Open,2018,128
+m_2018_U_5,1st Round,8/27/2018,4.54,43.4,39.3,US Open,2018,118
+m_2018_U_6,1st Round,8/27/2018,4.24,41.8,40.3,US Open,2018,161
+m_2018_U_7,1st Round,8/27/2018,4.97,43,48,US Open,2018,144
+m_2018_U_8,1st Round,8/27/2018,3.78,36.8,38.8,US Open,2018,155
+m_2018_U_9,1st Round,8/27/2018,4.5,41.8,45,US Open,2018,135
+m_2018_U_10,1st Round,8/27/2018,4.69,44.3,49.3,US Open,2018,197
+m_2018_U_11,1st Round,8/27/2018,4.54,44,42.3,US Open,2018,127
+m_2018_U_12,1st Round,8/27/2018,3.65,38.5,37.7,US Open,2018,113
+m_2018_U_13,1st Round,8/27/2018,4.43,40.6,39,US Open,2018,195
+m_2018_U_14,1st Round,8/27/2018,4.47,42.3,44.7,US Open,2018,134
+m_2018_U_15,1st Round,8/27/2018,4.75,42.4,45.6,US Open,2018,228
+m_2018_U_16,1st Round,8/27/2018,4.11,38.4,36,US Open,2018,144
+m_2018_U_17,1st Round,8/27/2018,5,48.1,48.8,US Open,2018,195
+m_2018_U_18,1st Round,8/27/2018,4.23,38.6,37,US Open,2018,148
+m_2018_U_19,1st Round,8/27/2018,3.84,39.3,36.5,US Open,2018,146
+m_2018_U_20,1st Round,8/27/2018,3.45,34.4,38,US Open,2018,114
+m_2018_U_21,1st Round,8/27/2018,4.85,44.9,49.8,US Open,2018,199
+m_2018_U_22,1st Round,8/27/2018,5.14,48.6,74.5,US Open,2018,149
+m_2018_U_23,1st Round,8/27/2018,4.79,45.6,50.8,US Open,2018,254
+m_2018_U_24,1st Round,8/27/2018,4.24,40.8,41,US Open,2018,123
+m_2018_U_25,1st Round,8/27/2018,4.07,41.6,40.7,US Open,2018,122
+m_2018_U_26,1st Round,8/27/2018,4.94,45.7,51,US Open,2018,153
+m_2018_U_27,1st Round,8/27/2018,4.57,37.4,45.7,US Open,2018,137
+m_2018_U_28,1st Round,8/27/2018,4.33,43.8,43.3,US Open,2018,130
+m_2018_U_29,1st Round,8/28/2018,3.46,36.5,30,US Open,2018,90
+m_2018_U_30,1st Round,8/28/2018,4.12,45.8,34.3,US Open,2018,103
+m_2018_U_31,1st Round,8/28/2018,5.19,48.8,83,US Open,2018,83
+m_2018_U_32,1st Round,8/28/2018,5.27,45.8,52.7,US Open,2018,158
+m_2018_U_33,1st Round,8/28/2018,4.45,44.5,49,US Open,2018,147
+m_2018_U_34,1st Round,8/28/2018,4.16,44.1,39.5,US Open,2018,158
+m_2018_U_35,1st Round,8/28/2018,4.45,38.3,46,US Open,2018,138
+m_2018_U_36,1st Round,8/28/2018,4.12,41.8,34.3,US Open,2018,103
+m_2018_U_37,1st Round,8/28/2018,4.56,43,38,US Open,2018,114
+m_2018_U_38,1st Round,8/28/2018,5,41.3,51.7,US Open,2018,155
+m_2018_U_39,1st Round,8/28/2018,4.52,43.8,47.5,US Open,2018,95
+m_2018_U_40,1st Round,8/28/2018,3.89,38.7,35,US Open,2018,105
+m_2018_U_41,1st Round,8/28/2018,4,42,37.3,US Open,2018,112
+m_2018_U_42,1st Round,8/28/2018,5.13,42.6,50,US Open,2018,200
+m_2018_U_43,1st Round,8/28/2018,4.54,45.1,36.3,US Open,2018,109
+m_2018_U_44,1st Round,8/28/2018,5.26,50.9,44.8,US Open,2018,179
+m_2018_U_45,1st Round,8/28/2018,5.75,47.4,53.7,US Open,2018,161
+m_2018_U_46,1st Round,8/28/2018,4.96,42.6,47.6,US Open,2018,238
+m_2018_U_47,1st Round,8/28/2018,4.83,47.6,50.8,US Open,2018,203
+m_2018_U_48,1st Round,8/28/2018,4.83,45.8,48.3,US Open,2018,193
+m_2018_U_49,1st Round,8/28/2018,4.59,40.4,50.5,US Open,2018,202
+m_2018_U_50,1st Round,8/28/2018,4.04,40.6,36.4,US Open,2018,182
+m_2018_U_51,1st Round,8/28/2018,4.72,41.4,50.3,US Open,2018,151
+m_2018_U_52,1st Round,8/28/2018,4.17,41.4,32,US Open,2018,96
+m_2018_U_53,1st Round,8/28/2018,4.74,39.9,54.5,US Open,2018,218
+m_2018_U_54,1st Round,8/28/2018,5.09,47.7,54.3,US Open,2018,163
+m_2018_U_55,1st Round,8/28/2018,4.67,38.7,46.7,US Open,2018,140
+m_2018_U_56,1st Round,8/28/2018,3.88,37.3,32,US Open,2018,128
+m_2018_U_57,1st Round,8/28/2018,4.11,36.3,46.3,US Open,2018,185
+m_2018_U_58,1st Round,8/28/2018,4.24,40.4,39.3,US Open,2018,157
+m_2018_U_59,1st Round,8/28/2018,4.52,39,49.7,US Open,2018,149
+m_2018_U_60,1st Round,8/28/2018,4.24,43.1,29.7,US Open,2018,89
+m_2018_U_61,1st Round,8/28/2018,4.08,41.1,34,US Open,2018,102
+m_2018_U_62,1st Round,8/29/2018,4.31,35,37.3,US Open,2018,112
+m_2018_U_63,1st Round,8/29/2018,3.68,35.9,35,US Open,2018,140
+m_2018_U_64,2nd Round,8/29/2018,5.17,51.4,50,US Open,2018,150
+m_2018_U_65,2nd Round,8/29/2018,4.42,48.9,42,US Open,2018,168
+m_2018_U_66,2nd Round,8/29/2018,4.67,44.8,50.3,US Open,2018,201
+m_2018_U_67,2nd Round,8/29/2018,4.34,44.2,42,US Open,2018,126
+m_2018_U_68,2nd Round,8/29/2018,4.28,43.7,42.8,US Open,2018,214
+m_2018_U_69,2nd Round,8/29/2018,4.89,44.7,44,US Open,2018,132
+m_2018_U_70,2nd Round,8/29/2018,5.08,49.7,50.8,US Open,2018,203
+m_2018_U_71,2nd Round,8/29/2018,4.14,43.2,38.7,US Open,2018,116
+m_2018_U_72,2nd Round,8/29/2018,4.94,44.7,44.5,US Open,2018,178
+m_2018_U_73,2nd Round,8/29/2018,4.11,43.2,43.6,US Open,2018,218
+m_2018_U_74,2nd Round,8/29/2018,4.92,46.8,42.7,US Open,2018,128
+m_2018_U_75,2nd Round,8/29/2018,4.18,43.6,39,US Open,2018,117
+m_2018_U_76,2nd Round,8/29/2018,4.2,38.4,45.4,US Open,2018,227
+m_2018_U_77,2nd Round,8/29/2018,4.2,42.2,42,US Open,2018,126
+m_2018_U_78,2nd Round,8/30/2018,4.41,44.5,43,US Open,2018,172
+m_2018_U_79,2nd Round,8/30/2018,4.44,49.7,40,US Open,2018,120
+m_2018_U_80,2nd Round,8/30/2018,5.72,47.7,55.3,US Open,2018,166
+m_2018_U_81,2nd Round,8/30/2018,4.71,48.5,40,US Open,2018,160
+m_2018_U_82,2nd Round,8/30/2018,4.51,40.4,41.8,US Open,2018,167
+m_2018_U_83,2nd Round,8/30/2018,5.03,44.2,42.8,US Open,2018,171
+m_2018_U_84,2nd Round,8/30/2018,3.89,43,36.3,US Open,2018,109
+m_2018_U_85,2nd Round,8/30/2018,4.26,40.3,37.3,US Open,2018,149
+m_2018_U_86,2nd Round,8/30/2018,4.56,43.8,46.8,US Open,2018,187
+m_2018_U_87,2nd Round,8/30/2018,4.14,39.7,35.6,US Open,2018,178
+m_2018_U_88,2nd Round,8/30/2018,3.66,35.6,39,US Open,2018,117
+m_2018_U_89,2nd Round,8/30/2018,4.83,43.2,49.5,US Open,2018,198
+m_2018_U_90,2nd Round,8/30/2018,4.7,43.3,43.5,US Open,2018,174
+m_2018_U_91,2nd Round,8/30/2018,4.42,43.6,39.8,US Open,2018,159
+m_2018_U_92,2nd Round,8/31/2018,3.95,37.3,26.3,US Open,2018,79
+m_2018_U_93,2nd Round,8/31/2018,4.61,41,41.5,US Open,2018,166
+m_2018_U_94,2nd Round,8/31/2018,4.59,43.7,78,US Open,2018,78
+m_2018_U_95,2nd Round,8/31/2018,4.93,41.3,49.3,US Open,2018,148
+m_2018_U_96,3rd Round,8/31/2018,4.37,41,41.5,US Open,2018,166
+m_2018_U_97,3rd Round,8/31/2018,4.98,44.2,49.8,US Open,2018,199
+m_2018_U_98,3rd Round,8/31/2018,5.48,49.6,65.8,US Open,2018,263
+m_2018_U_99,3rd Round,8/31/2018,4.55,46.5,44.6,US Open,2018,223
+m_2018_U_100,3rd Round,8/31/2018,4.58,41.6,51.5,US Open,2018,206
+m_2018_U_101,3rd Round,1/9/2018,4.41,41.7,42.7,US Open,2018,128
+m_2018_U_102,3rd Round,1/9/2018,4.16,42.3,43,US Open,2018,129
+m_2018_U_103,3rd Round,1/9/2018,5.45,51.7,60,US Open,2018,180
+m_2018_U_104,3rd Round,1/9/2018,4.67,42.9,42,US Open,2018,168
+m_2018_U_105,3rd Round,1/9/2018,3.59,33.5,34.7,US Open,2018,104
+m_2018_U_106,3rd Round,1/9/2018,4.74,41.1,54.5,US Open,2018,218
+m_2018_U_107,3rd Round,1/9/2018,4.97,45,47.3,US Open,2018,189
+m_2018_U_108,3rd Round,1/9/2018,5.08,44.3,49.5,US Open,2018,198
+m_2018_U_109,3rd Round,2/9/2018,4.62,40,44.7,US Open,2018,134
+m_2018_U_110,3rd Round,2/9/2018,5.04,43.7,43.7,US Open,2018,131
+m_2018_U_111,3rd Round,2/9/2018,4.8,43.2,48,US Open,2018,240
+m_2018_U_112,4th Round,2/9/2018,4.91,47.3,52.3,US Open,2018,157
+m_2018_U_113,4th Round,2/9/2018,4.98,48.5,49.8,US Open,2018,199
+m_2018_U_114,4th Round,2/9/2018,4.18,46.8,37.6,US Open,2018,188
+m_2018_U_115,4th Round,3/9/2018,4.81,51,41.7,US Open,2018,125
+m_2018_U_116,4th Round,3/9/2018,4.69,46.6,45.3,US Open,2018,136
+m_2018_U_117,4th Round,3/9/2018,4.29,46.5,40,US Open,2018,120
+m_2018_U_118,4th Round,3/9/2018,4.8,44.3,48,US Open,2018,144
+m_2018_U_119,4th Round,4/9/2018,4.78,40.7,53.8,US Open,2018,215
+m_2018_U_120,Quarterfinals,4/9/2018,5.15,47.6,52.8,US Open,2018,211
+m_2018_U_121,Quarterfinals,5/9/2018,5.56,51.5,57.8,US Open,2018,289
+m_2018_U_122,Quarterfinals,5/9/2018,4.96,50.3,49.6,US Open,2018,248
+m_2018_U_123,Quarterfinals,6/9/2018,5.83,50.4,56.3,US Open,2018,169
+m_2018_U_124,Semifinals,7/9/2018,6.05,53.4,60.5,US Open,2018,121
+m_2018_U_125,Semifinals,8/9/2018,5.3,47.9,47.7,US Open,2018,143
+m_2018_U_126,The Final,9/9/2018,6.53,56.8,65.3,US Open,2018,196
+m_2017_U_0,1st Round,8/28/2017,4.22,35.6,39,US Open,2017,156
+m_2017_U_1,1st Round,8/28/2017,3.8,36.4,38,US Open,2017,114
+m_2017_U_2,1st Round,8/28/2017,4.28,42.5,41.3,US Open,2017,124
+m_2017_U_3,1st Round,8/28/2017,5.25,43.9,52.5,US Open,2017,210
+m_2017_U_4,1st Round,8/28/2017,4.18,40.6,47.3,US Open,2017,142
+m_2017_U_5,1st Round,8/28/2017,4.84,38.1,46,US Open,2017,92
+m_2017_U_6,1st Round,8/28/2017,4.12,38.6,34.3,US Open,2017,103
+m_2017_U_7,1st Round,8/28/2017,4.79,43.5,40.8,US Open,2017,163
+m_2017_U_8,1st Round,8/28/2017,4.44,38.4,80,US Open,2017,80
+m_2017_U_9,1st Round,8/28/2017,4.54,42.7,42,US Open,2017,168
+m_2017_U_10,1st Round,8/28/2017,5.24,44.1,55,US Open,2017,220
+m_2017_U_11,1st Round,8/28/2017,4.68,39.6,46.8,US Open,2017,187
+m_2017_U_12,1st Round,8/28/2017,3.28,30.5,31.7,US Open,2017,95
+m_2017_U_13,1st Round,8/28/2017,4.09,41.1,35.8,US Open,2017,143
+m_2017_U_14,1st Round,8/28/2017,3.96,36.4,37,US Open,2017,111
+m_2017_U_15,1st Round,8/28/2017,4.21,40.7,33.7,US Open,2017,101
+m_2017_U_16,1st Round,8/28/2017,5.09,42.3,59,US Open,2017,295
+m_2017_U_17,1st Round,8/28/2017,4.62,42.5,45,US Open,2017,180
+m_2017_U_18,1st Round,8/28/2017,3.58,34.2,31,US Open,2017,93
+m_2017_U_19,1st Round,8/28/2017,3.72,38.1,33.5,US Open,2017,134
+m_2017_U_20,1st Round,8/28/2017,3.56,33.9,32,US Open,2017,96
+m_2017_U_21,1st Round,8/28/2017,3.92,37,41.6,US Open,2017,208
+m_2017_U_22,1st Round,8/28/2017,4.03,36.9,38.3,US Open,2017,153
+m_2017_U_23,1st Round,8/28/2017,5.1,42.6,50,US Open,2017,250
+m_2017_U_24,1st Round,8/28/2017,3.86,37.3,37.3,US Open,2017,112
+m_2017_U_25,1st Round,8/28/2017,4.3,37.8,40.4,US Open,2017,202
+m_2017_U_26,1st Round,8/28/2017,3.52,34.2,34,US Open,2017,102
+m_2017_U_27,1st Round,8/28/2017,4.28,37.7,46,US Open,2017,184
+m_2017_U_28,1st Round,8/28/2017,4.82,42.3,47.2,US Open,2017,236
+m_2017_U_29,1st Round,8/28/2017,4.51,37.1,41.8,US Open,2017,167
+m_2017_U_30,1st Round,8/28/2017,4.63,40.2,49.3,US Open,2017,148
+m_2017_U_31,1st Round,8/29/2017,5,38.9,56.7,US Open,2017,170
+m_2017_U_32,1st Round,8/29/2017,4.86,43.4,45.3,US Open,2017,136
+m_2017_U_33,1st Round,8/30/2017,3.74,37.1,31.4,US Open,2017,157
+m_2017_U_34,1st Round,8/30/2017,4.95,47.7,36.3,US Open,2017,109
+m_2017_U_35,1st Round,8/30/2017,4.06,36.9,42,US Open,2017,126
+m_2017_U_36,1st Round,8/30/2017,4.14,39,35.6,US Open,2017,178
+m_2017_U_37,1st Round,8/30/2017,4.54,43.6,36.3,US Open,2017,109
+m_2017_U_38,1st Round,8/30/2017,4.53,42.7,48.8,US Open,2017,195
+m_2017_U_39,1st Round,8/30/2017,4.23,39.7,42.3,US Open,2017,127
+m_2017_U_40,1st Round,8/30/2017,4.65,41.6,46.5,US Open,2017,186
+m_2017_U_41,1st Round,8/30/2017,5.21,45.8,50.3,US Open,2017,151
+m_2017_U_42,1st Round,8/30/2017,4.33,46.1,35.8,US Open,2017,143
+m_2017_U_43,1st Round,8/30/2017,5.14,48.4,45,US Open,2017,180
+m_2017_U_44,1st Round,8/30/2017,3.57,35.3,30,US Open,2017,150
+m_2017_U_45,1st Round,8/30/2017,4.36,37.2,36.3,US Open,2017,109
+m_2017_U_46,1st Round,8/30/2017,4.24,40.5,29.7,US Open,2017,89
+m_2017_U_47,1st Round,8/30/2017,3.97,37.1,36.8,US Open,2017,147
+m_2017_U_48,1st Round,8/30/2017,3.65,38,31.7,US Open,2017,95
+m_2017_U_49,1st Round,8/30/2017,3.83,36.5,35.2,US Open,2017,176
+m_2017_U_50,1st Round,8/30/2017,4.09,37,33.8,US Open,2017,135
+m_2017_U_51,1st Round,8/30/2017,3.97,34.8,41,US Open,2017,123
+m_2017_U_52,1st Round,8/30/2017,4.1,37.2,39.7,US Open,2017,119
+m_2017_U_53,1st Round,8/30/2017,4.26,40.5,45.2,US Open,2017,226
+m_2017_U_54,1st Round,8/30/2017,4.53,40.5,51.3,US Open,2017,154
+m_2017_U_55,1st Round,8/30/2017,3.83,38.5,34.5,US Open,2017,138
+m_2017_U_56,1st Round,8/30/2017,3.85,39,34.7,US Open,2017,104
+m_2017_U_57,1st Round,8/30/2017,4.61,41.5,43.8,US Open,2017,175
+m_2017_U_58,1st Round,8/30/2017,4.17,37.1,43.8,US Open,2017,175
+m_2017_U_59,1st Round,8/30/2017,4.8,39.5,42,US Open,2017,168
+m_2017_U_60,1st Round,8/30/2017,3.78,37.5,34,US Open,2017,102
+m_2017_U_61,1st Round,8/30/2017,3.78,33.3,34,US Open,2017,102
+m_2017_U_62,1st Round,8/30/2017,4.25,40,34,US Open,2017,34
+m_2017_U_63,1st Round,8/30/2017,4.84,46.7,41.6,US Open,2017,208
+m_2017_U_64,2nd Round,8/30/2017,4.12,39.7,42,US Open,2017,210
+m_2017_U_65,2nd Round,8/30/2017,4.95,44.1,52,US Open,2017,208
+m_2017_U_66,2nd Round,8/30/2017,4.6,41.5,41.4,US Open,2017,207
+m_2017_U_67,2nd Round,8/30/2017,3.42,37.4,35.3,US Open,2017,106
+m_2017_U_68,2nd Round,8/30/2017,2.96,34,26.7,US Open,2017,80
+m_2017_U_69,2nd Round,8/30/2017,4.58,41.3,51.5,US Open,2017,206
+m_2017_U_70,2nd Round,8/30/2017,3.81,35.1,34.3,US Open,2017,103
+m_2017_U_71,2nd Round,8/30/2017,3.38,32.4,33.8,US Open,2017,169
+m_2017_U_72,2nd Round,8/31/2017,4.72,41.4,47.2,US Open,2017,236
+m_2017_U_73,2nd Round,8/31/2017,4.42,41.7,45.7,US Open,2017,137
+m_2017_U_74,2nd Round,8/31/2017,4.67,41.8,46.7,US Open,2017,140
+m_2017_U_75,2nd Round,8/31/2017,4.28,39.9,45.7,US Open,2017,137
+m_2017_U_76,2nd Round,8/31/2017,4.63,42.9,49.3,US Open,2017,148
+m_2017_U_77,2nd Round,8/31/2017,4.12,41.8,35.4,US Open,2017,177
+m_2017_U_78,2nd Round,8/31/2017,3.7,39.2,33.3,US Open,2017,100
+m_2017_U_79,2nd Round,8/31/2017,4.13,41,44,US Open,2017,132
+m_2017_U_80,2nd Round,8/31/2017,4.36,40.3,39.3,US Open,2017,157
+m_2017_U_81,2nd Round,8/31/2017,4.17,39.5,41.7,US Open,2017,125
+m_2017_U_82,2nd Round,8/31/2017,3.97,40.3,32.8,US Open,2017,131
+m_2017_U_83,2nd Round,8/31/2017,4.62,39.1,40,US Open,2017,120
+m_2017_U_84,2nd Round,8/31/2017,4.45,38.3,49,US Open,2017,147
+m_2017_U_85,2nd Round,8/31/2017,4.48,42.9,43.3,US Open,2017,130
+m_2017_U_86,2nd Round,8/31/2017,3.81,38.6,34.3,US Open,2017,137
+m_2017_U_87,2nd Round,8/31/2017,3.89,36.3,36.3,US Open,2017,109
+m_2017_U_88,2nd Round,8/31/2017,4.81,43.5,52,US Open,2017,260
+m_2017_U_89,2nd Round,8/31/2017,3.97,39.1,32.8,US Open,2017,131
+m_2017_U_90,2nd Round,8/31/2017,4,35.6,37.6,US Open,2017,188
+m_2017_U_91,2nd Round,8/31/2017,3.86,38.4,39.4,US Open,2017,197
+m_2017_U_92,2nd Round,8/31/2017,4.05,36.7,42.5,US Open,2017,170
+m_2017_U_93,2nd Round,8/31/2017,4.83,42.1,43.5,US Open,2017,87
+m_2017_U_94,2nd Round,8/31/2017,4.37,41.6,44.8,US Open,2017,179
+m_2017_U_95,2nd Round,1/9/2017,4.94,46.3,43.3,US Open,2017,173
+m_2017_U_96,3rd Round,1/9/2017,3.86,39.3,36,US Open,2017,108
+m_2017_U_97,3rd Round,1/9/2017,4.71,45.8,44,US Open,2017,132
+m_2017_U_98,3rd Round,1/9/2017,4.64,43.1,51,US Open,2017,204
+m_2017_U_99,3rd Round,1/9/2017,4.43,40.9,41.3,US Open,2017,124
+m_2017_U_100,3rd Round,1/9/2017,3.81,37.8,35.3,US Open,2017,141
+m_2017_U_101,3rd Round,1/9/2017,4.07,41.5,36.7,US Open,2017,110
+m_2017_U_102,3rd Round,1/9/2017,3.37,36.7,32,US Open,2017,128
+m_2017_U_103,3rd Round,2/9/2017,4.1,39.1,42.3,US Open,2017,127
+m_2017_U_104,3rd Round,2/9/2017,4.67,40.4,46.7,US Open,2017,140
+m_2017_U_105,3rd Round,2/9/2017,4.29,41.3,44.3,US Open,2017,133
+m_2017_U_106,3rd Round,2/9/2017,3.57,35.9,27.3,US Open,2017,82
+m_2017_U_107,3rd Round,2/9/2017,4.64,46.2,43.3,US Open,2017,130
+m_2017_U_108,3rd Round,2/9/2017,3.95,36.4,41.5,US Open,2017,166
+m_2017_U_109,3rd Round,2/9/2017,4.17,39.5,75,US Open,2017,75
+m_2017_U_110,3rd Round,2/9/2017,5.13,45,48.8,US Open,2017,195
+m_2017_U_111,3rd Round,3/9/2017,3.53,36.3,35.3,US Open,2017,106
+m_2017_U_112,4th Round,3/9/2017,4.83,41.4,58,US Open,2017,174
+m_2017_U_113,4th Round,3/9/2017,3.88,37.7,38.8,US Open,2017,155
+m_2017_U_114,4th Round,3/9/2017,4.32,45.6,44.3,US Open,2017,177
+m_2017_U_115,4th Round,4/9/2017,3.3,32.1,25.3,US Open,2017,76
+m_2017_U_116,4th Round,4/9/2017,4.04,40.7,33.7,US Open,2017,101
+m_2017_U_117,4th Round,4/9/2017,3.79,34.4,41.7,US Open,2017,125
+m_2017_U_118,4th Round,4/9/2017,4.89,46.1,43,US Open,2017,215
+m_2017_U_119,4th Round,5/9/2017,3.63,38.2,36.3,US Open,2017,109
+m_2017_U_120,Quarterfinals,5/9/2017,4.25,42.2,39.7,US Open,2017,119
+m_2017_U_121,Quarterfinals,6/9/2017,4.58,41.2,51.5,US Open,2017,206
+m_2017_U_122,Quarterfinals,6/9/2017,4.17,39.7,32,US Open,2017,96
+m_2017_U_123,Quarterfinals,7/9/2017,3.95,39.8,42.5,US Open,2017,170
+m_2017_U_124,Semifinals,8/9/2017,4.27,42.5,43.8,US Open,2017,175
+m_2017_U_125,Semifinals,9/9/2017,4.55,48.6,37.5,US Open,2017,150
+m_2017_U_126,The Final,10/9/2017,5.25,49,49,US Open,2017,147
+m_2019_W_0,1st Round,1/7/2019,4.72,42.9,47.2,Wimbledon,2019,236
+m_2019_W_1,1st Round,1/7/2019,3.93,39.5,35.3,Wimbledon,2019,106
+m_2019_W_2,1st Round,1/7/2019,3.36,37.4,31.3,Wimbledon,2019,94
+m_2019_W_3,1st Round,1/7/2019,3.46,34,30,Wimbledon,2019,90
+m_2019_W_4,1st Round,1/7/2019,3.86,36,36,Wimbledon,2019,108
+m_2019_W_5,1st Round,1/7/2019,3.48,33.5,29,Wimbledon,2019,87
+m_2019_W_6,1st Round,1/7/2019,5.07,41.5,45.7,Wimbledon,2019,137
+m_2019_W_7,1st Round,1/7/2019,4.25,38.6,46.8,Wimbledon,2019,187
+m_2019_W_8,1st Round,1/7/2019,3.93,34.2,36.7,Wimbledon,2019,110
+m_2019_W_9,1st Round,1/7/2019,3.85,36.1,33.3,Wimbledon,2019,100
+m_2019_W_10,1st Round,1/7/2019,3.97,37,35.8,Wimbledon,2019,143
+m_2019_W_11,1st Round,1/7/2019,4.28,42.5,41.8,Wimbledon,2019,167
+m_2019_W_12,1st Round,1/7/2019,4.1,41.9,41,Wimbledon,2019,123
+m_2019_W_13,1st Round,1/7/2019,3.52,36,27,Wimbledon,2019,81
+m_2019_W_14,1st Round,1/7/2019,4.06,38.5,40.6,Wimbledon,2019,203
+m_2019_W_15,1st Round,1/7/2019,4.05,40.2,43.5,Wimbledon,2019,174
+m_2019_W_16,1st Round,1/7/2019,3.88,35.7,37.2,Wimbledon,2019,186
+m_2019_W_17,1st Round,1/7/2019,3.16,35.2,33.7,Wimbledon,2019,101
+m_2019_W_18,1st Round,1/7/2019,3.5,34.3,37.3,Wimbledon,2019,112
+m_2019_W_19,1st Round,1/7/2019,3.87,39.2,37.8,Wimbledon,2019,151
+m_2019_W_20,1st Round,1/7/2019,3.95,34.6,38.5,Wimbledon,2019,154
+m_2019_W_21,1st Round,1/7/2019,3.6,38.1,36,Wimbledon,2019,108
+m_2019_W_22,1st Round,1/7/2019,3.88,37.6,42.7,Wimbledon,2019,128
+m_2019_W_23,1st Round,1/7/2019,4,36.3,42,Wimbledon,2019,168
+m_2019_W_24,1st Round,1/7/2019,4.3,37.5,49.5,Wimbledon,2019,198
+m_2019_W_25,1st Round,1/7/2019,4.09,38.1,34.8,Wimbledon,2019,139
+m_2019_W_26,1st Round,1/7/2019,3.6,36.4,36,Wimbledon,2019,108
+m_2019_W_27,1st Round,1/7/2019,3.96,36.3,35.6,Wimbledon,2019,178
+m_2019_W_28,1st Round,1/7/2019,4.5,40.7,45,Wimbledon,2019,135
+m_2019_W_29,1st Round,1/7/2019,4.88,43.1,52,Wimbledon,2019,156
+m_2019_W_30,1st Round,1/7/2019,3.67,38.8,36.7,Wimbledon,2019,110
+m_2019_W_31,1st Round,1/7/2019,3.76,36.7,31,Wimbledon,2019,124
+m_2019_W_32,1st Round,2/7/2019,4.36,36.6,40.7,Wimbledon,2019,122
+m_2019_W_33,1st Round,2/7/2019,4.47,39.4,44.7,Wimbledon,2019,134
+m_2019_W_34,1st Round,2/7/2019,4.06,40.4,43.3,Wimbledon,2019,130
+m_2019_W_35,1st Round,2/7/2019,4,37.3,41.6,Wimbledon,2019,208
+m_2019_W_36,1st Round,2/7/2019,4.15,39.1,37.3,Wimbledon,2019,112
+m_2019_W_37,1st Round,2/7/2019,4.48,39.7,41.2,Wimbledon,2019,206
+m_2019_W_38,1st Round,2/7/2019,4.14,38.7,38.7,Wimbledon,2019,116
+m_2019_W_39,1st Round,2/7/2019,4.63,40.2,44,Wimbledon,2019,176
+m_2019_W_40,1st Round,2/7/2019,3.82,36.3,37.3,Wimbledon,2019,149
+m_2019_W_41,1st Round,2/7/2019,5.24,42,50.7,Wimbledon,2019,152
+m_2019_W_42,1st Round,2/7/2019,4.43,34.8,41.3,Wimbledon,2019,124
+m_2019_W_43,1st Round,2/7/2019,4.14,36.1,43.5,Wimbledon,2019,174
+m_2019_W_44,1st Round,2/7/2019,4.08,36.2,38.8,Wimbledon,2019,155
+m_2019_W_45,1st Round,2/7/2019,3.9,38,41,Wimbledon,2019,164
+m_2019_W_46,1st Round,2/7/2019,3.47,37.6,27.8,Wimbledon,2019,111
+m_2019_W_47,1st Round,2/7/2019,3.64,39.5,32.8,Wimbledon,2019,131
+m_2019_W_48,1st Round,2/7/2019,2.32,27.8,19.3,Wimbledon,2019,58
+m_2019_W_49,1st Round,2/7/2019,3.26,33.4,29.3,Wimbledon,2019,88
+m_2019_W_50,1st Round,2/7/2019,3.24,33,31.3,Wimbledon,2019,94
+m_2019_W_51,1st Round,2/7/2019,3.58,35,32.3,Wimbledon,2019,129
+m_2019_W_52,1st Round,2/7/2019,4.13,37.8,42.7,Wimbledon,2019,128
+m_2019_W_53,1st Round,2/7/2019,4.84,44.8,40.3,Wimbledon,2019,121
+m_2019_W_54,1st Round,2/7/2019,3.67,36.2,33,Wimbledon,2019,99
+m_2019_W_55,1st Round,2/7/2019,3.98,38.8,40.6,Wimbledon,2019,203
+m_2019_W_56,1st Round,2/7/2019,4.33,39.2,39,Wimbledon,2019,117
+m_2019_W_57,1st Round,2/7/2019,3,29.2,27.8,Wimbledon,2019,111
+m_2019_W_58,1st Round,2/7/2019,4.38,40.7,46,Wimbledon,2019,184
+m_2019_W_59,1st Round,2/7/2019,5.09,43.4,56,Wimbledon,2019,168
+m_2019_W_60,1st Round,2/7/2019,3.95,38.8,38.5,Wimbledon,2019,154
+m_2019_W_61,1st Round,2/7/2019,3.81,38.7,39.3,Wimbledon,2019,118
+m_2019_W_62,1st Round,2/7/2019,4,35.6,34,Wimbledon,2019,136
+m_2019_W_63,1st Round,2/7/2019,3.72,33.4,36,Wimbledon,2019,108
+m_2019_W_64,2nd Round,3/7/2019,4.21,40.8,44.3,Wimbledon,2019,177
+m_2019_W_65,2nd Round,3/7/2019,4.18,35.8,46,Wimbledon,2019,92
+m_2019_W_66,2nd Round,3/7/2019,3.51,37.7,38.6,Wimbledon,2019,193
+m_2019_W_67,2nd Round,3/7/2019,3.6,36.7,37.4,Wimbledon,2019,187
+m_2019_W_68,2nd Round,3/7/2019,3.87,37.4,37.8,Wimbledon,2019,151
+m_2019_W_69,2nd Round,3/7/2019,3.74,36.1,33.7,Wimbledon,2019,101
+m_2019_W_70,2nd Round,3/7/2019,4.38,39,43.8,Wimbledon,2019,175
+m_2019_W_71,2nd Round,3/7/2019,4.25,39.9,51,Wimbledon,2019,153
+m_2019_W_72,2nd Round,3/7/2019,4.04,36.7,46.5,Wimbledon,2019,93
+m_2019_W_73,2nd Round,3/7/2019,4.37,44.5,44.6,Wimbledon,2019,223
+m_2019_W_74,2nd Round,3/7/2019,3.9,38.6,41,Wimbledon,2019,164
+m_2019_W_75,2nd Round,3/7/2019,4.43,40.2,43.4,Wimbledon,2019,217
+m_2019_W_76,2nd Round,3/7/2019,4.68,41.3,53,Wimbledon,2019,159
+m_2019_W_77,2nd Round,3/7/2019,4.92,41.7,45.5,Wimbledon,2019,182
+m_2019_W_78,2nd Round,3/7/2019,4.59,43.1,44.8,Wimbledon,2019,179
+m_2019_W_79,2nd Round,3/7/2019,3.72,37.4,31,Wimbledon,2019,93
+m_2019_W_80,2nd Round,4/7/2019,4.19,40.3,40.2,Wimbledon,2019,201
+m_2019_W_81,2nd Round,4/7/2019,5.29,39.9,42.3,Wimbledon,2019,127
+m_2019_W_82,2nd Round,4/7/2019,3.65,31.3,31.7,Wimbledon,2019,95
+m_2019_W_83,2nd Round,4/7/2019,3.14,31.4,33.8,Wimbledon,2019,135
+m_2019_W_84,2nd Round,4/7/2019,5.03,41.5,48.7,Wimbledon,2019,146
+m_2019_W_85,2nd Round,4/7/2019,3.78,37,37,Wimbledon,2019,185
+m_2019_W_86,2nd Round,4/7/2019,4.15,45,36,Wimbledon,2019,108
+m_2019_W_87,2nd Round,4/7/2019,4.4,40.6,44,Wimbledon,2019,132
+m_2019_W_88,2nd Round,4/7/2019,3.53,37.2,35.3,Wimbledon,2019,106
+m_2019_W_89,2nd Round,4/7/2019,3.56,36.2,32,Wimbledon,2019,96
+m_2019_W_90,2nd Round,4/7/2019,3.34,32.5,32.3,Wimbledon,2019,97
+m_2019_W_91,2nd Round,4/7/2019,4.56,43.8,45.6,Wimbledon,2019,228
+m_2019_W_92,2nd Round,4/7/2019,4.27,38.4,43.6,Wimbledon,2019,218
+m_2019_W_93,2nd Round,4/7/2019,4.38,46.6,46,Wimbledon,2019,184
+m_2019_W_94,2nd Round,4/7/2019,3.64,37.5,34,Wimbledon,2019,102
+m_2019_W_95,2nd Round,4/7/2019,4.19,36.1,37.7,Wimbledon,2019,113
+m_2019_W_96,3rd Round,5/7/2019,3.78,38,34,Wimbledon,2019,102
+m_2019_W_97,3rd Round,5/7/2019,3.67,35.7,41.3,Wimbledon,2019,165
+m_2019_W_98,3rd Round,5/7/2019,4.04,41.1,37.7,Wimbledon,2019,113
+m_2019_W_99,3rd Round,5/7/2019,4.97,43,51.3,Wimbledon,2019,154
+m_2019_W_100,3rd Round,5/7/2019,4.4,41,42.2,Wimbledon,2019,211
+m_2019_W_101,3rd Round,5/7/2019,4.39,40.4,45,Wimbledon,2019,180
+m_2019_W_102,3rd Round,5/7/2019,4.34,40.1,46.3,Wimbledon,2019,139
+m_2019_W_103,3rd Round,5/7/2019,4.19,42.4,43.3,Wimbledon,2019,130
+m_2019_W_104,3rd Round,6/7/2019,4.07,37.5,36.7,Wimbledon,2019,110
+m_2019_W_105,3rd Round,6/7/2019,3.42,33.4,37.7,Wimbledon,2019,113
+m_2019_W_106,3rd Round,6/7/2019,4.93,39.3,49.3,Wimbledon,2019,148
+m_2019_W_107,3rd Round,6/7/2019,4.6,38.4,49.5,Wimbledon,2019,198
+m_2019_W_108,3rd Round,6/7/2019,4.71,41.6,51.8,Wimbledon,2019,259
+m_2019_W_109,3rd Round,6/7/2019,4.32,45,36,Wimbledon,2019,108
+m_2019_W_110,3rd Round,6/7/2019,3.94,36.3,42,Wimbledon,2019,126
+m_2019_W_111,3rd Round,6/7/2019,4.54,42.5,47.2,Wimbledon,2019,236
+m_2019_W_112,4th Round,8/7/2019,4.59,42.1,44.8,Wimbledon,2019,179
+m_2019_W_113,4th Round,8/7/2019,4.38,46,35,Wimbledon,2019,105
+m_2019_W_114,4th Round,8/7/2019,3.86,35,37.3,Wimbledon,2019,112
+m_2019_W_115,4th Round,8/7/2019,3.85,36,44.3,Wimbledon,2019,177
+m_2019_W_116,4th Round,8/7/2019,3.92,40.5,34,Wimbledon,2019,102
+m_2019_W_117,4th Round,8/7/2019,4.11,41.5,44.4,Wimbledon,2019,222
+m_2019_W_118,4th Round,8/7/2019,4.41,40.4,40.8,Wimbledon,2019,163
+m_2019_W_119,4th Round,8/7/2019,3.22,37.3,24.7,Wimbledon,2019,74
+m_2019_W_120,Quarterfinals,10/7/2019,4.88,44.2,39,Wimbledon,2019,117
+m_2019_W_121,Quarterfinals,10/7/2019,4.68,41.1,46.8,Wimbledon,2019,187
+m_2019_W_122,Quarterfinals,10/7/2019,4.22,38.4,39,Wimbledon,2019,156
+m_2019_W_123,Quarterfinals,10/7/2019,4.54,41.4,42.3,Wimbledon,2019,127
+m_2019_W_124,Semifinals,12/7/2019,4.83,45.9,42.3,Wimbledon,2019,169
+m_2019_W_125,Semifinals,12/7/2019,4.79,44.9,45.5,Wimbledon,2019,182
+m_2019_W_126,The Final,7/14/2019,4.57,42.2,59.4,Wimbledon,2019,297
+m_2018_W_0,1st Round,2/7/2018,4.02,39.3,41.8,Wimbledon,2018,209
+m_2018_W_1,1st Round,2/7/2018,3.93,38.8,35.3,Wimbledon,2018,106
+m_2018_W_2,1st Round,2/7/2018,3.85,36.7,38.5,Wimbledon,2018,154
+m_2018_W_3,1st Round,2/7/2018,4,37.9,40,Wimbledon,2018,120
+m_2018_W_4,1st Round,2/7/2018,3.63,32.4,31.8,Wimbledon,2018,127
+m_2018_W_5,1st Round,2/7/2018,3.33,35.3,30,Wimbledon,2018,90
+m_2018_W_6,1st Round,2/7/2018,4.1,40.9,41,Wimbledon,2018,205
+m_2018_W_7,1st Round,2/7/2018,3.76,33.4,36.3,Wimbledon,2018,109
+m_2018_W_8,1st Round,2/7/2018,4.47,38.9,42,Wimbledon,2018,210
+m_2018_W_9,1st Round,2/7/2018,3.04,32.2,26.3,Wimbledon,2018,79
+m_2018_W_10,1st Round,2/7/2018,4.27,39.4,47,Wimbledon,2018,188
+m_2018_W_11,1st Round,2/7/2018,4,35.3,43,Wimbledon,2018,172
+m_2018_W_12,1st Round,2/7/2018,3.72,36.4,40,Wimbledon,2018,160
+m_2018_W_13,1st Round,2/7/2018,4.65,40.8,40.3,Wimbledon,2018,121
+m_2018_W_14,1st Round,2/7/2018,4.25,41.8,39.7,Wimbledon,2018,119
+m_2018_W_15,1st Round,2/7/2018,3.64,39,30.3,Wimbledon,2018,91
+m_2018_W_16,1st Round,2/7/2018,3.91,37.3,41.7,Wimbledon,2018,125
+m_2018_W_17,1st Round,2/7/2018,4.68,38.9,39.8,Wimbledon,2018,159
+m_2018_W_18,1st Round,2/7/2018,3.32,34.1,27.7,Wimbledon,2018,83
+m_2018_W_19,1st Round,2/7/2018,4.02,37.6,41.3,Wimbledon,2018,165
+m_2018_W_20,1st Round,2/7/2018,4.15,38.8,42.5,Wimbledon,2018,170
+m_2018_W_21,1st Round,2/7/2018,3.47,34.5,37.3,Wimbledon,2018,149
+m_2018_W_22,1st Round,2/7/2018,4.15,37.4,47,Wimbledon,2018,141
+m_2018_W_23,1st Round,2/7/2018,4,37.4,38.7,Wimbledon,2018,116
+m_2018_W_24,1st Round,2/7/2018,4.14,38.2,38.7,Wimbledon,2018,116
+m_2018_W_25,1st Round,2/7/2018,3.98,38.8,45.4,Wimbledon,2018,227
+m_2018_W_26,1st Round,2/7/2018,4.29,38.8,45,Wimbledon,2018,180
+m_2018_W_27,1st Round,2/7/2018,3.5,35.7,31.5,Wimbledon,2018,126
+m_2018_W_28,1st Round,2/7/2018,3.88,37.1,32.3,Wimbledon,2018,97
+m_2018_W_29,1st Round,2/7/2018,3.84,37.7,42.3,Wimbledon,2018,169
+m_2018_W_30,1st Round,2/7/2018,3.49,35,35.8,Wimbledon,2018,143
+m_2018_W_31,1st Round,3/7/2018,3.92,41.7,39.2,Wimbledon,2018,196
+m_2018_W_32,1st Round,3/7/2018,3.63,31.6,36.3,Wimbledon,2018,109
+m_2018_W_33,1st Round,3/7/2018,3.93,37.9,36.7,Wimbledon,2018,110
+m_2018_W_34,1st Round,3/7/2018,,,,Wimbledon,2018,
+m_2018_W_35,1st Round,3/7/2018,4.13,36.5,39.3,Wimbledon,2018,157
+m_2018_W_36,1st Round,3/7/2018,3.3,38.7,29.7,Wimbledon,2018,89
+m_2018_W_37,1st Round,3/7/2018,4.18,35.2,40.8,Wimbledon,2018,163
+m_2018_W_38,1st Round,3/7/2018,4.31,37.3,36.2,Wimbledon,2018,181
+m_2018_W_39,1st Round,3/7/2018,3.55,35.9,34.3,Wimbledon,2018,103
+m_2018_W_40,1st Round,3/7/2018,3.42,34.2,38.5,Wimbledon,2018,154
+m_2018_W_41,1st Round,3/7/2018,3.39,35.4,30.5,Wimbledon,2018,122
+m_2018_W_42,1st Round,3/7/2018,3.75,36.2,30,Wimbledon,2018,90
+m_2018_W_43,1st Round,3/7/2018,3.76,40,32,Wimbledon,2018,128
+m_2018_W_44,1st Round,3/7/2018,3.89,35.3,44.8,Wimbledon,2018,179
+m_2018_W_45,1st Round,3/7/2018,3.46,36,30,Wimbledon,2018,90
+m_2018_W_46,1st Round,3/7/2018,3.83,34,40.3,Wimbledon,2018,161
+m_2018_W_47,1st Round,3/7/2018,4.1,37,42.3,Wimbledon,2018,127
+m_2018_W_48,1st Round,3/7/2018,4.11,37.6,37,Wimbledon,2018,111
+m_2018_W_49,1st Round,3/7/2018,4.05,37.2,44.5,Wimbledon,2018,178
+m_2018_W_50,1st Round,3/7/2018,4.23,41.3,36.7,Wimbledon,2018,110
+m_2018_W_51,1st Round,3/7/2018,3.44,37.8,31,Wimbledon,2018,124
+m_2018_W_52,1st Round,3/7/2018,3.68,36.4,36.8,Wimbledon,2018,147
+m_2018_W_53,1st Round,3/7/2018,3.21,33.8,31,Wimbledon,2018,93
+m_2018_W_54,1st Round,3/7/2018,3.58,36.9,32.3,Wimbledon,2018,129
+m_2018_W_55,1st Round,3/7/2018,4.04,41.9,48.5,Wimbledon,2018,97
+m_2018_W_56,1st Round,3/7/2018,4.17,40.4,45,Wimbledon,2018,225
+m_2018_W_57,1st Round,3/7/2018,3.48,33.7,33.7,Wimbledon,2018,101
+m_2018_W_58,1st Round,3/7/2018,4.64,42.4,48.8,Wimbledon,2018,195
+m_2018_W_59,1st Round,3/7/2018,3.88,38.8,33.7,Wimbledon,2018,101
+m_2018_W_60,1st Round,3/7/2018,4.42,38.1,48.7,Wimbledon,2018,146
+m_2018_W_61,1st Round,3/7/2018,3.76,32.4,42.7,Wimbledon,2018,128
+m_2018_W_62,1st Round,3/7/2018,3.88,37,31,Wimbledon,2018,93
+m_2018_W_63,1st Round,3/7/2018,3.75,36.7,37.5,Wimbledon,2018,150
+m_2018_W_64,2nd Round,4/7/2018,4.39,40.2,52.7,Wimbledon,2018,158
+m_2018_W_65,2nd Round,4/7/2018,3.74,34,35.2,Wimbledon,2018,176
+m_2018_W_66,2nd Round,4/7/2018,4.12,38.4,43.3,Wimbledon,2018,173
+m_2018_W_67,2nd Round,4/7/2018,3.44,35.1,31,Wimbledon,2018,93
+m_2018_W_68,2nd Round,4/7/2018,3.63,33,36.3,Wimbledon,2018,109
+m_2018_W_69,2nd Round,4/7/2018,5.12,43.7,52.2,Wimbledon,2018,261
+m_2018_W_70,2nd Round,4/7/2018,3.46,33.9,42.2,Wimbledon,2018,211
+m_2018_W_71,2nd Round,4/7/2018,4.31,40.4,51.7,Wimbledon,2018,155
+m_2018_W_72,2nd Round,4/7/2018,3.41,34.3,47,Wimbledon,2018,235
+m_2018_W_73,2nd Round,4/7/2018,3.33,35.8,30,Wimbledon,2018,90
+m_2018_W_74,2nd Round,5/7/2018,3.7,40.5,34.3,Wimbledon,2018,137
+m_2018_W_75,2nd Round,5/7/2018,4.03,41.1,39,Wimbledon,2018,117
+m_2018_W_76,2nd Round,5/7/2018,4.51,38.4,46.3,Wimbledon,2018,185
+m_2018_W_77,2nd Round,5/7/2018,4.14,36.6,49.7,Wimbledon,2018,149
+m_2018_W_78,2nd Round,5/7/2018,3.86,39.9,38.6,Wimbledon,2018,193
+m_2018_W_79,2nd Round,5/7/2018,4.93,44.9,47.7,Wimbledon,2018,143
+m_2018_W_80,2nd Round,5/7/2018,3.98,36.6,39.8,Wimbledon,2018,159
+m_2018_W_81,2nd Round,5/7/2018,4.56,42.3,41,Wimbledon,2018,205
+m_2018_W_82,2nd Round,5/7/2018,4.85,39.3,53.3,Wimbledon,2018,160
+m_2018_W_83,2nd Round,5/7/2018,4.26,40.8,45.2,Wimbledon,2018,226
+m_2018_W_84,2nd Round,5/7/2018,3.1,33.7,32,Wimbledon,2018,96
+m_2018_W_85,2nd Round,5/7/2018,3.79,38.5,30.3,Wimbledon,2018,91
+m_2018_W_86,2nd Round,5/7/2018,3.75,36.8,39,Wimbledon,2018,195
+m_2018_W_87,2nd Round,5/7/2018,3.26,31,31,Wimbledon,2018,124
+m_2018_W_88,2nd Round,5/7/2018,4.29,40.3,44.3,Wimbledon,2018,133
+m_2018_W_89,2nd Round,5/7/2018,4.21,42.3,36.2,Wimbledon,2018,181
+m_2018_W_90,2nd Round,5/7/2018,3.67,34.3,33,Wimbledon,2018,132
+m_2018_W_91,2nd Round,5/7/2018,3.98,35.2,40.8,Wimbledon,2018,163
+m_2018_W_92,2nd Round,5/7/2018,3.8,41,31.7,Wimbledon,2018,95
+m_2018_W_93,2nd Round,5/7/2018,3.83,36.7,38.3,Wimbledon,2018,115
+m_2018_W_94,2nd Round,5/7/2018,4.54,37.7,39.3,Wimbledon,2018,118
+m_2018_W_95,2nd Round,6/7/2018,3.92,38.5,38.4,Wimbledon,2018,192
+m_2018_W_96,3rd Round,6/7/2018,3.85,41.2,42.3,Wimbledon,2018,127
+m_2018_W_97,3rd Round,6/7/2018,3.2,34.8,32,Wimbledon,2018,128
+m_2018_W_98,3rd Round,6/7/2018,3.84,40.7,38.4,Wimbledon,2018,192
+m_2018_W_99,3rd Round,6/7/2018,3.64,38.2,30.3,Wimbledon,2018,91
+m_2018_W_100,3rd Round,6/7/2018,3.43,38.4,32,Wimbledon,2018,96
+m_2018_W_101,3rd Round,6/7/2018,3.24,32.4,31.3,Wimbledon,2018,94
+m_2018_W_102,3rd Round,6/7/2018,3.78,36.5,40.3,Wimbledon,2018,121
+m_2018_W_103,3rd Round,7/7/2018,4.65,45.7,48,Wimbledon,2018,144
+m_2018_W_104,3rd Round,7/7/2018,4.28,37.7,42.8,Wimbledon,2018,171
+m_2018_W_105,3rd Round,7/7/2018,3.62,35.8,38,Wimbledon,2018,152
+m_2018_W_106,3rd Round,7/7/2018,4.88,47.8,40.7,Wimbledon,2018,122
+m_2018_W_107,3rd Round,7/7/2018,4.58,39.8,43.5,Wimbledon,2018,174
+m_2018_W_108,3rd Round,7/7/2018,4.08,42.3,40,Wimbledon,2018,200
+m_2018_W_109,3rd Round,7/7/2018,3.77,35.6,35.4,Wimbledon,2018,177
+m_2018_W_110,3rd Round,7/7/2018,4.7,43.7,43.5,Wimbledon,2018,174
+m_2018_W_111,3rd Round,7/7/2018,3.34,34.9,32.3,Wimbledon,2018,97
+m_2018_W_112,4th Round,9/7/2018,3.75,35.8,35,Wimbledon,2018,105
+m_2018_W_113,4th Round,9/7/2018,3.87,39.2,37.8,Wimbledon,2018,151
+m_2018_W_114,4th Round,9/7/2018,5.07,44.7,52,Wimbledon,2018,208
+m_2018_W_115,4th Round,9/7/2018,3.71,36.2,42,Wimbledon,2018,126
+m_2018_W_116,4th Round,9/7/2018,4.35,38.8,52.3,Wimbledon,2018,209
+m_2018_W_117,4th Round,9/7/2018,4.04,43.2,37.7,Wimbledon,2018,113
+m_2018_W_118,4th Round,9/7/2018,4.08,42.7,35.3,Wimbledon,2018,106
+m_2018_W_119,4th Round,10/7/2018,5.5,42.8,66,Wimbledon,2018,264
+m_2018_W_120,Quarterfinals,11/7/2018,4.56,44.7,38.8,Wimbledon,2018,155
+m_2018_W_121,Quarterfinals,11/7/2018,3.85,39.6,50.8,Wimbledon,2018,254
+m_2018_W_122,Quarterfinals,11/7/2018,5.33,50.7,57.6,Wimbledon,2018,288
+m_2018_W_123,Quarterfinals,11/7/2018,3.77,38.4,40.5,Wimbledon,2018,162
+m_2018_W_124,Semifinals,7/13/2018,4.13,41.8,79.2,Wimbledon,2018,396
+m_2018_W_125,Semifinals,7/14/2018,5.43,49,63,Wimbledon,2018,315
+m_2018_W_126,The Final,7/15/2018,4.96,47.9,46.3,Wimbledon,2018,139
+m_2017_W_0,1st Round,3/7/2017,3.75,33.5,40,Wimbledon,2017,120
+m_2017_W_1,1st Round,3/7/2017,3.05,31.9,29,Wimbledon,2017,58
+m_2017_W_2,1st Round,3/7/2017,4.33,38.5,46.5,Wimbledon,2017,186
+m_2017_W_3,1st Round,3/7/2017,3.63,36.6,36.3,Wimbledon,2017,145
+m_2017_W_4,1st Round,3/7/2017,2.93,30.9,30,Wimbledon,2017,120
+m_2017_W_5,1st Round,3/7/2017,4.72,40.5,45.7,Wimbledon,2017,137
+m_2017_W_6,1st Round,3/7/2017,3.51,39.7,30.8,Wimbledon,2017,123
+m_2017_W_7,1st Round,3/7/2017,3.37,30.2,34.5,Wimbledon,2017,138
+m_2017_W_8,1st Round,3/7/2017,3.5,34.2,30.8,Wimbledon,2017,154
+m_2017_W_9,1st Round,3/7/2017,3.28,32.2,27.3,Wimbledon,2017,82
+m_2017_W_10,1st Round,3/7/2017,4.12,36.6,34.3,Wimbledon,2017,103
+m_2017_W_11,1st Round,3/7/2017,3.23,34.6,23.7,Wimbledon,2017,71
+m_2017_W_12,1st Round,3/7/2017,4.27,39.3,43.8,Wimbledon,2017,175
+m_2017_W_13,1st Round,3/7/2017,3.47,37.4,44,Wimbledon,2017,132
+m_2017_W_14,1st Round,3/7/2017,4.04,37.3,32.3,Wimbledon,2017,97
+m_2017_W_15,1st Round,3/7/2017,4.16,38.1,45.8,Wimbledon,2017,183
+m_2017_W_16,1st Round,3/7/2017,3.81,33.4,34.3,Wimbledon,2017,137
+m_2017_W_17,1st Round,3/7/2017,4.22,40.2,39,Wimbledon,2017,156
+m_2017_W_18,1st Round,3/7/2017,3.06,32.5,24.5,Wimbledon,2017,98
+m_2017_W_19,1st Round,3/7/2017,4.3,39.1,38.7,Wimbledon,2017,116
+m_2017_W_20,1st Round,3/7/2017,4.38,42.3,35,Wimbledon,2017,105
+m_2017_W_21,1st Round,3/7/2017,2.43,25.5,17,Wimbledon,2017,17
+m_2017_W_22,1st Round,3/7/2017,4.26,39.7,52.8,Wimbledon,2017,264
+m_2017_W_23,1st Round,3/7/2017,3.68,35.2,30.7,Wimbledon,2017,92
+m_2017_W_24,1st Round,3/7/2017,2.98,30,30.5,Wimbledon,2017,122
+m_2017_W_25,1st Round,3/7/2017,3.83,36.5,38.3,Wimbledon,2017,115
+m_2017_W_26,1st Round,3/7/2017,4.18,35.1,39.8,Wimbledon,2017,159
+m_2017_W_27,1st Round,3/7/2017,4.41,43.5,40.6,Wimbledon,2017,203
+m_2017_W_28,1st Round,3/7/2017,3.67,36.2,33,Wimbledon,2017,132
+m_2017_W_29,1st Round,3/7/2017,3.52,34.4,24.7,Wimbledon,2017,74
+m_2017_W_30,1st Round,3/7/2017,3.74,37.4,38.7,Wimbledon,2017,116
+m_2017_W_31,1st Round,4/7/2017,3.54,32.3,31,Wimbledon,2017,124
+m_2017_W_32,1st Round,4/7/2017,4.02,37.9,37,Wimbledon,2017,185
+m_2017_W_33,1st Round,4/7/2017,3.59,36.6,30.5,Wimbledon,2017,122
+m_2017_W_34,1st Round,4/7/2017,4.46,41.8,43.5,Wimbledon,2017,174
+m_2017_W_35,1st Round,4/7/2017,3.95,38.7,29,Wimbledon,2017,87
+m_2017_W_36,1st Round,4/7/2017,4.2,39.5,42,Wimbledon,2017,168
+m_2017_W_37,1st Round,4/7/2017,4.3,38.3,43,Wimbledon,2017,129
+m_2017_W_38,1st Round,4/7/2017,2.9,30.5,28,Wimbledon,2017,84
+m_2017_W_39,1st Round,4/7/2017,4.58,43.2,45.8,Wimbledon,2017,183
+m_2017_W_40,1st Round,4/7/2017,4.22,37,45,Wimbledon,2017,135
+m_2017_W_41,1st Round,4/7/2017,4.5,40.2,48,Wimbledon,2017,144
+m_2017_W_42,1st Round,4/7/2017,3.98,36.5,41.4,Wimbledon,2017,207
+m_2017_W_43,1st Round,4/7/2017,3.03,32.8,31.3,Wimbledon,2017,94
+m_2017_W_44,1st Round,4/7/2017,4.8,37.5,52.8,Wimbledon,2017,211
+m_2017_W_45,1st Round,4/7/2017,4.47,36.5,44.7,Wimbledon,2017,134
+m_2017_W_46,1st Round,4/7/2017,3.64,36.4,40,Wimbledon,2017,40
+m_2017_W_47,1st Round,4/7/2017,4.67,40.2,42,Wimbledon,2017,126
+m_2017_W_48,1st Round,4/7/2017,3.55,35.9,36.7,Wimbledon,2017,110
+m_2017_W_49,1st Round,4/7/2017,3.45,36.8,33.3,Wimbledon,2017,100
+m_2017_W_50,1st Round,4/7/2017,3.35,35.3,33.5,Wimbledon,2017,134
+m_2017_W_51,1st Round,4/7/2017,4,37.9,40,Wimbledon,2017,120
+m_2017_W_52,1st Round,4/7/2017,3.5,29.3,42,Wimbledon,2017,42
+m_2017_W_53,1st Round,4/7/2017,4.12,38.2,46.7,Wimbledon,2017,140
+m_2017_W_54,1st Round,4/7/2017,3.55,39.1,35.5,Wimbledon,2017,142
+m_2017_W_55,1st Round,4/7/2017,4.2,37.5,35,Wimbledon,2017,105
+m_2017_W_56,1st Round,4/7/2017,3.5,33.7,36.8,Wimbledon,2017,147
+m_2017_W_57,1st Round,4/7/2017,3.97,39,38.3,Wimbledon,2017,115
+m_2017_W_58,1st Round,4/7/2017,3.93,39.8,36.7,Wimbledon,2017,110
+m_2017_W_59,1st Round,4/7/2017,3.73,37.2,30.6,Wimbledon,2017,153
+m_2017_W_60,1st Round,4/7/2017,2.94,33.9,30.3,Wimbledon,2017,91
+m_2017_W_61,1st Round,4/7/2017,4.06,39.2,44.7,Wimbledon,2017,134
+m_2017_W_62,1st Round,4/7/2017,2.4,28.8,,Wimbledon,2017,12
+m_2017_W_63,1st Round,5/7/2017,4.83,45.2,55.5,Wimbledon,2017,222
+m_2017_W_64,2nd Round,5/7/2017,4.15,36.9,34.3,Wimbledon,2017,137
+m_2017_W_65,2nd Round,5/7/2017,3.68,36.6,43.4,Wimbledon,2017,217
+m_2017_W_66,2nd Round,5/7/2017,4.22,39.1,38,Wimbledon,2017,114
+m_2017_W_67,2nd Round,5/7/2017,4.76,41.8,48.8,Wimbledon,2017,195
+m_2017_W_68,2nd Round,5/7/2017,2.92,31.9,27.8,Wimbledon,2017,111
+m_2017_W_69,2nd Round,5/7/2017,3.53,38.9,31.8,Wimbledon,2017,127
+m_2017_W_70,2nd Round,5/7/2017,3.86,36.4,34,Wimbledon,2017,170
+m_2017_W_71,2nd Round,5/7/2017,4.2,37.1,47.3,Wimbledon,2017,189
+m_2017_W_72,2nd Round,5/7/2017,3.88,36.8,44,Wimbledon,2017,132
+m_2017_W_73,2nd Round,5/7/2017,4.11,38.8,38,Wimbledon,2017,152
+m_2017_W_74,2nd Round,5/7/2017,3.9,36.6,39,Wimbledon,2017,117
+m_2017_W_75,2nd Round,5/7/2017,4.13,37.8,41.3,Wimbledon,2017,165
+m_2017_W_76,2nd Round,5/7/2017,3.33,37.3,33.3,Wimbledon,2017,100
+m_2017_W_77,2nd Round,5/7/2017,3.84,37.6,32,Wimbledon,2017,96
+m_2017_W_78,2nd Round,5/7/2017,3.59,33.2,34.7,Wimbledon,2017,104
+m_2017_W_79,2nd Round,5/7/2017,4.37,41.6,43.7,Wimbledon,2017,131
+m_2017_W_80,2nd Round,6/7/2017,4,32.7,,Wimbledon,2017,12
+m_2017_W_81,2nd Round,6/7/2017,4.25,40,34,Wimbledon,2017,102
+m_2017_W_82,2nd Round,6/7/2017,4.05,37.9,46.2,Wimbledon,2017,231
+m_2017_W_83,2nd Round,6/7/2017,4.38,40.9,36.8,Wimbledon,2017,184
+m_2017_W_84,2nd Round,6/7/2017,5.41,49,57.7,Wimbledon,2017,173
+m_2017_W_85,2nd Round,6/7/2017,4.13,39.2,44,Wimbledon,2017,132
+m_2017_W_86,2nd Round,6/7/2017,4.04,38.8,31,Wimbledon,2017,93
+m_2017_W_87,2nd Round,6/7/2017,4.33,38.9,42.4,Wimbledon,2017,212
+m_2017_W_88,2nd Round,6/7/2017,4.28,39.6,42.8,Wimbledon,2017,171
+m_2017_W_89,2nd Round,6/7/2017,3.9,38.2,39,Wimbledon,2017,156
+m_2017_W_90,2nd Round,6/7/2017,3.72,38.9,40,Wimbledon,2017,160
+m_2017_W_91,2nd Round,6/7/2017,3.98,39.6,42.2,Wimbledon,2017,211
+m_2017_W_92,2nd Round,6/7/2017,4.38,40,46,Wimbledon,2017,184
+m_2017_W_93,2nd Round,6/7/2017,3.32,34.9,31,Wimbledon,2017,93
+m_2017_W_94,2nd Round,6/7/2017,3.1,32.7,30,Wimbledon,2017,90
+m_2017_W_95,2nd Round,6/7/2017,3.73,36.3,32.8,Wimbledon,2017,164
+m_2017_W_96,3rd Round,7/7/2017,5,41.1,50,Wimbledon,2017,200
+m_2017_W_97,3rd Round,7/7/2017,4.32,39.9,49,Wimbledon,2017,147
+m_2017_W_98,3rd Round,7/7/2017,4.09,39.7,43.7,Wimbledon,2017,131
+m_2017_W_99,3rd Round,7/7/2017,3.52,33.4,34,Wimbledon,2017,102
+m_2017_W_100,3rd Round,7/7/2017,4.62,40.8,44.7,Wimbledon,2017,134
+m_2017_W_101,3rd Round,7/7/2017,4.3,43.4,39.8,Wimbledon,2017,159
+m_2017_W_102,3rd Round,7/7/2017,3.53,37.1,40,Wimbledon,2017,120
+m_2017_W_103,3rd Round,8/7/2017,4.29,43.9,30,Wimbledon,2017,60
+m_2017_W_104,3rd Round,8/7/2017,4.1,37,41.8,Wimbledon,2017,209
+m_2017_W_105,3rd Round,8/7/2017,4.15,40.1,47,Wimbledon,2017,141
+m_2017_W_106,3rd Round,8/7/2017,3.71,35.8,35.6,Wimbledon,2017,178
+m_2017_W_107,3rd Round,8/7/2017,3.75,37.5,35,Wimbledon,2017,105
+m_2017_W_108,3rd Round,8/7/2017,4.52,41.2,43.7,Wimbledon,2017,131
+m_2017_W_109,3rd Round,8/7/2017,3.29,33.9,30.7,Wimbledon,2017,92
+m_2017_W_110,3rd Round,8/7/2017,4.1,40.3,41,Wimbledon,2017,123
+m_2017_W_111,3rd Round,8/7/2017,3.41,34.4,36.3,Wimbledon,2017,109
+m_2017_W_112,4th Round,10/7/2017,4.17,41.4,33.3,Wimbledon,2017,100
+m_2017_W_113,4th Round,10/7/2017,3.44,35,37.2,Wimbledon,2017,186
+m_2017_W_114,4th Round,10/7/2017,4.41,38.1,47,Wimbledon,2017,141
+m_2017_W_115,4th Round,10/7/2017,3.58,37.8,34.4,Wimbledon,2017,172
+m_2017_W_116,4th Round,10/7/2017,4.36,44.4,57.6,Wimbledon,2017,288
+m_2017_W_117,4th Round,10/7/2017,3.98,39.3,40.6,Wimbledon,2017,203
+m_2017_W_118,4th Round,10/7/2017,3.46,35.1,32.3,Wimbledon,2017,97
+m_2017_W_119,4th Round,11/7/2017,4.43,40.9,44.3,Wimbledon,2017,133
+m_2017_W_120,Quarterfinals,12/7/2017,4.02,41.5,41.8,Wimbledon,2017,209
+m_2017_W_121,Quarterfinals,12/7/2017,3.58,39,32.2,Wimbledon,2017,161
+m_2017_W_122,Quarterfinals,12/7/2017,3.9,37.9,39,Wimbledon,2017,117
+m_2017_W_123,Quarterfinals,12/7/2017,4.5,40.6,63,Wimbledon,2017,63
+m_2017_W_124,Semifinals,7/14/2017,3.83,39,44,Wimbledon,2017,176
+m_2017_W_125,Semifinals,7/14/2017,4.06,35.5,46,Wimbledon,2017,138
+m_2017_W_126,The Final,7/16/2017,3.88,37.9,33.7,Wimbledon,2017,101

@@ -1,0 +1,152 @@
+<%= form_with(model: matchstat, local: true) do |form| %>
+  <% if matchstat.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(matchstat.errors.count, "error") %> prohibited this matchstat from being saved:</h2>
+
+      <ul>
+        <% matchstat.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :statId %>
+    <%= form.number_field :statId %>
+  </div>
+
+  <div class="field">
+    <%= form.label :matchId %>
+    <%= form.text_field :matchId %>
+  </div>
+
+  <div class="field">
+    <%= form.label :playerId %>
+    <%= form.text_field :playerId %>
+  </div>
+
+  <div class="field">
+    <%= form.label :points %>
+    <%= form.number_field :points %>
+  </div>
+
+  <div class="field">
+    <%= form.label :rank %>
+    <%= form.number_field :rank %>
+  </div>
+
+  <div class="field">
+    <%= form.label :winner %>
+    <%= form.check_box :winner %>
+  </div>
+
+  <div class="field">
+    <%= form.label :sets %>
+    <%= form.number_field :sets %>
+  </div>
+
+  <div class="field">
+    <%= form.label :set1 %>
+    <%= form.number_field :set1 %>
+  </div>
+
+  <div class="field">
+    <%= form.label :set2 %>
+    <%= form.number_field :set2 %>
+  </div>
+
+  <div class="field">
+    <%= form.label :set3 %>
+    <%= form.number_field :set3 %>
+  </div>
+
+  <div class="field">
+    <%= form.label :set4 %>
+    <%= form.number_field :set4 %>
+  </div>
+
+  <div class="field">
+    <%= form.label :set5 %>
+    <%= form.number_field :set5 %>
+  </div>
+
+  <div class="field">
+    <%= form.label :avg_odds %>
+    <%= form.text_field :avg_odds %>
+  </div>
+
+  <div class="field">
+    <%= form.label :max_odds %>
+    <%= form.text_field :max_odds %>
+  </div>
+
+  <div class="field">
+    <%= form.label :total_pts %>
+    <%= form.number_field :total_pts %>
+  </div>
+
+  <div class="field">
+    <%= form.label :serve_pt %>
+    <%= form.number_field :serve_pt %>
+  </div>
+
+  <div class="field">
+    <%= form.label :return_pt %>
+    <%= form.number_field :return_pt %>
+  </div>
+
+  <div class="field">
+    <%= form.label :aces %>
+    <%= form.number_field :aces %>
+  </div>
+
+  <div class="field">
+    <%= form.label :bp_saved %>
+    <%= form.number_field :bp_saved %>
+  </div>
+
+  <div class="field">
+    <%= form.label :bp_faced %>
+    <%= form.number_field :bp_faced %>
+  </div>
+
+  <div class="field">
+    <%= form.label :first_serve_rtn_won %>
+    <%= form.number_field :first_serve_rtn_won %>
+  </div>
+
+  <div class="field">
+    <%= form.label :second_serve_rtn_won %>
+    <%= form.number_field :second_serve_rtn_won %>
+  </div>
+
+  <div class="field">
+    <%= form.label :first_serve_in %>
+    <%= form.number_field :first_serve_in %>
+  </div>
+
+  <div class="field">
+    <%= form.label :dbl_faults %>
+    <%= form.number_field :dbl_faults %>
+  </div>
+
+  <div class="field">
+    <%= form.label :first_server_per %>
+    <%= form.text_field :first_server_per %>
+  </div>
+
+  <div class="field">
+    <%= form.label :player_id %>
+    <%= form.text_field :player_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :match_id %>
+    <%= form.text_field :match_id %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

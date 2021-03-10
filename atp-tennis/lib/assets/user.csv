@@ -1,0 +1,4 @@
+email,password,firstName,lastName,contact,address
+guest@tennis.com,guest,Guest,,,
+admin@tennis.com,admin,Admin,Admin,7676767676,"23, Kings Streent, Aberdeen, AB248UH"
+testuser@tennis.com,test,Test,User 1,9876565678,"1,George Street, Aberdeen, AB231RE"

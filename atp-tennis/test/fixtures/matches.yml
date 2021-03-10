@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  matchId: MyString
+  round: MyString
+  date: MyString
+  avg_min_game: 1.5
+  avg_seconds_point: 1.5
+  avg_minutes_set: 1.5
+  tournament: MyString
+  year: 1
+  match_minutes: 1
+
+two:
+  matchId: MyString
+  round: MyString
+  date: MyString
+  avg_min_game: 1.5
+  avg_seconds_point: 1.5
+  avg_minutes_set: 1.5
+  tournament: MyString
+  year: 1
+  match_minutes: 1

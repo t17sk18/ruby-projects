@@ -1,0 +1,66 @@
+
+ <!-- Header -->
+<p id="notice"><%= notice %></p>
+<!-- Page Content -->
+<div class="container">
+<h1 class="font-weight-light text-center text-lg-left mt-4 mb-0"><h1>Products</h1>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+<hr class="mt-2 mb-5">
+<div class="row text-center text-lg-left">
+
+ <% @products.each do |product| %>
+  <div class="col-lg-3 col-md-4 col-6">
+    <%= form_tag orders_cart_path, :method => :get do |form| %>
+          
+          <input type="hidden" name="productSelected" value="<%= product.productId %>">
+          <br><b>Name:</b> <%= product.productName %>
+          <br><b>Description:</b> <%= product.productDescription %>
+          <br><b>Price in Pounds (£):</b> <%= product.productPrice %> 
+          <br><b>Color:</b> <%= product.productColor %>
+          <br><b>Size:</b> <%= product.productSize %>
+          <br><b>Availabile Items:</b> <%= product.productAvailability %>
+          <br><b>Quantity:</b>  
+          <select name = "quantity">
+              <option value ="1">1</option>
+              <option value ="2">2</option>
+              <option value ="3">3</option>
+              <option value ="4">4</option>
+          </select> 
+         
+          <%= link_to image_tag("#{product.productImage}.jpg", class: 'product'), product, :onclick=>"window.open(this.href,'products_show_path', 'height=600, width=600');return false;"  %>
+          <button type="submit" class="btn">Add to Cart</button>
+        <% end %>
+        
+    </div>
+     <% end %>
+  </div>
+
+</div>
+<!-- /.container -->
+
+<br>
+
+<%= link_to 'New Product', new_product_path %>
+
+<script type="text/javascript">
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>

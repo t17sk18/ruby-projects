@@ -1,0 +1,88 @@
+// Place all the styles related to the products controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+img.product {
+    width: 10%;
+    height: 10%;
+    object-fit: contain;
+ }
+ 
+ img.productimage {
+   width: 10%;
+   height: 10%;
+   object-fit: contain;
+}
+
+
+img.productdisplay {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+
+  .btn {
+    box-shadow: 0 .1875rem .1875rem 0 rgba(0,0,0,.1) !important;
+    padding: 1.25rem 2rem;
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+  }
+
+
+.showproduct {
+
+  margin:auto;
+}
+:root {
+  --rowNum: 50;
+  --colNum: 6;
+  --gridHeight: 50px;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Calibri, Lucida Grande;
+  margin: 0;
+  overflow-x: hidden;
+}
+.wrapper {
+  display: grid;
+  grid-template-rows: repeat(var(--rowNum), var(--gridHeight));
+  grid-template-columns: repeat(var(--colNum), auto);
+  gap: 5px;
+}
+.grid-item {
+  grid-column-start: auto;
+  grid-row-start: auto;
+}
+
+.controls {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  padding: 10px;
+  background: rgba(40, 180, 200, 0.8);
+  border: 2px solid black;
+  border-radius: 40px/40px;
+  
+  a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    
+    &:hover {
+      color: black;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+

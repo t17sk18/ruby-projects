@@ -1,0 +1,59 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  statId: 1
+  matchId: MyString
+  playerId: MyString
+  points: 1
+  rank: 1
+  winner: false
+  sets: 1
+  set1: 1
+  set2: 1
+  set3: 1
+  set4: 1
+  set5: 1
+  avg_odds: 1.5
+  max_odds: 1.5
+  total_pts: 1
+  serve_pt: 1
+  return_pt: 1
+  aces: 1
+  bp_saved: 1
+  bp_faced: 1
+  first_serve_rtn_won: 1
+  second_serve_rtn_won: 1
+  first_serve_in: 1
+  dbl_faults: 1
+  first_server_per: 1.5
+  player: one
+  match: one
+
+two:
+  statId: 1
+  matchId: MyString
+  playerId: MyString
+  points: 1
+  rank: 1
+  winner: false
+  sets: 1
+  set1: 1
+  set2: 1
+  set3: 1
+  set4: 1
+  set5: 1
+  avg_odds: 1.5
+  max_odds: 1.5
+  total_pts: 1
+  serve_pt: 1
+  return_pt: 1
+  aces: 1
+  bp_saved: 1
+  bp_faced: 1
+  first_serve_rtn_won: 1
+  second_serve_rtn_won: 1
+  first_serve_in: 1
+  dbl_faults: 1
+  first_server_per: 1.5
+  player: two
+  match: two

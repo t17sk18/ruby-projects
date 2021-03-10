@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<table id = "cart">
+<% for i in 0..@count-1 do%>
+  <tr>
+  <%= form_tag url_for(:controller => 'orders', :action => 'updatecart'), :method => 'get' do %>
+        <td><b>Product Name:</b> <%= raw @itemName[i] %><br>
+        <b>Product Description:</b> <%= raw @itemDesciption[i] %><br>
+        <b>Quantity Ordered:</b> <%= raw @itemQuantity[i]%> <br>      
+        <b>Price Per Item: £</b> <%= raw @itemPrice[i]%> <br>
+        <b>Total Cost Per Item: £</b> <%= raw @itemTotal[i]%></td>
+         <td><%= raw image_tag("#{@image[i]}.jpg", class: 'productimage') %></td>
+        <td><button name= "Item" type="submit" value = "<%= @cartid[i]%>" >Delete Item</button></td>
+    <% end %>
+  </tr>
+<% end %>
+</table>
+<p>
+ £<%= @totalcost%>
+</p>
+<%= form_tag url_for(:controller => 'orders', :action => 'checkout'), :method => 'get' do %>
+<td><button  type="submit" class ="btn" %>Check Out</button></td>
+<% end %>
+</body>
+</html>
+
+<script type="text/javascript">
+//https://stackoverflow.com/questions/6160415/reload-an-html-page-just-once-using-javascript
+   if(window.location.href.substr(-2) !== "?r") {
+      window.location = window.location.href + "?r";
+    }
+</script>
